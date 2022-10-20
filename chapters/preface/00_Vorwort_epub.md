@@ -17,19 +17,19 @@ hergestellt.</small>
 * [Kanal in Guma](ch005.xhtml#b018)
 * [Mein Freund Liu Darin, Gouverneur von Chotan](ch006.xhtml#b024)  (Separatbild)
 * [Nephritalterthümer aus Chotan (¼ natürlicher Größe)](ch006.xhtml#b024)  (Separatbild)
-* [Marktplatz in Chotan.](ch006.xhtml#b030)  Von Larsson-Pam  (Separatbild)
-* Vorasan
-* Gemmen aus Borasan
-* Kamele und Pferde aus Terracotta. Aus Borasan. (2/7 natürlicher Größe)
-* Terracotta-Köpfe aus Borasan (⅓ natürlicher Größe)  (Separatbild)
-* Löwenköpfe aus Terracotta. Aus Borasan. (2/7 natürlicher Größe) . ..
-* Terracotta-Krüge aus Borasan. (1/17 natürlicher Größe)
-* Greife aus Terracotta. Aus Borasan. (⅓ natürlicher Größe) 
-* Bronze-Buddhas und -Bodhisatvas aus Borasan (⅔ nat. Größe). (Separatbild)
-* Altes Manuskript aus Chotan (½ natürlicher Größe)  (Separatbild)
-* Altes Manuskript aus der Gegend von Chotan
-* Christliche Bronzemedaille aus Chotan
-* Münze und Engel aus Gold und Kupferkreuz aus Chotan (16/17 nat. Größe)
+* [Marktplatz in Chotan.](ch006.xhtml#b030) Von Larsson-Pam (Separatbild)
+* [Borasan](ch007.xhtml#b034)
+* [Gemmen aus Borasan](ch007.xhtml#b035)
+* [Kamele und Pferde aus Terracotta. Aus Borasan. (2/7 natürlicher Größe)](ch007.xhtml#b037)
+* [Terracotta-Köpfe aus Borasan (⅓ natürlicher Größe)](ch007.xhtml#b038)  (Separatbild)
+* [Löwenköpfe aus Terracotta. Aus Borasan. (2/7 natürlicher Größe)](ch007.xhtml#b042)
+* [Terracotta-Krüge aus Borasan. (1/17 natürlicher Größe)](ch007.xhtml#b043)
+* [Greife aus Terracotta. Aus Borasan. (⅓ natürlicher Größe)](ch007.xhtml#b045) 
+* [Bronze-Buddhas und -Bodhisatvas aus Borasan (⅔ nat. Größe)](ch007.xhtml#b049)  (Separatbild)
+* [Altes Manuskript aus Chotan (½ natürlicher Größe)](ch007.xhtml#b052) (Separatbild)
+* [Altes Manuskript aus der Gegend von Chotan](ch007.xhtml#b053)
+* [Christliche Bronzemedaille aus Chotan](ch007.xhtml#b056)
+* [Münze und Engel aus Gold und Kupferkreuz aus Chotan (16/17 nat. Größe)](ch007.xhtml#b057)
 * Altes und neues chinesisches Silber- und Kupfergeld
 * Bazar in Tavek-kel
 * Der Jurun-kasch-Fluß (Chotan-darja) bei Islam-abad

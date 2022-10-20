@@ -219,7 +219,7 @@ in längst vergangene Zeiten zurückleitet und die zu wichtigen historischen
 Fragen oder Entdeckungen führen können.
 
 :::: { .wrap-80  }
-![Marktplatz in Chotan.](Durch_Asiens_Wuesten_II_030.jpg "NMarktplatz in Chotan."){#b030}
+![Marktplatz in Chotan.](Durch_Asiens_Wuesten_II_030.jpg "Marktplatz in Chotan."){#b030}
 ::::
 
 Woran ich bei dieser Gelegenheit erinnern will, ist die Wichtigkeit des
