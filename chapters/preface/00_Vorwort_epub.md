@@ -30,16 +30,16 @@ hergestellt.</small>
 * [Altes Manuskript aus der Gegend von Chotan](ch007.xhtml#b053)
 * [Christliche Bronzemedaille aus Chotan](ch007.xhtml#b056)
 * [Münze und Engel aus Gold und Kupferkreuz aus Chotan (16/17 nat. Größe)](ch007.xhtml#b057)
-* Altes und neues chinesisches Silber- und Kupfergeld
-* Bazar in Tavek-kel
-* Der Jurun-kasch-Fluß (Chotan-darja) bei Islam-abad
-* Moscheepavillon in Tavek-kel
-* Wandmalereien aus der ersten verschütteten Stadt. Chromotafel (Separatbild)
-* Alte Kupferlöffel und eiserne Pfeilspitze aus Tavek-kel
-* Wandmalereien aus der ersten verschütteten Stadt. Chromotafel (Separatbild)
-* Ruinen eines Hauses in der alten Stadt Takla-makan
-* Buddhas aus der alten Stadt Takla-makan (⅓ nat. Größe) (Separatbild)
-* Haus mit bemalten Querwänden in der alten Stadt Takla-makan
+* [Altes und neues chinesisches Silber- und Kupfergeld](ch008.xhtml#b062)
+* [Bazar in Tavek-kel](ch008.xhtml#b063)
+* [Der Jurun-kasch-Fluß (Chotan-darja) bei Islam-abad](ch008.xhtml#b064)
+* [Moscheepavillon in Tavek-kel](ch008.xhtml#b065)
+* [Wandmalereien aus der ersten verschütteten Stadt.](ch008.xhtml#b066) Chromotafel (Separatbild)
+* [Alte Kupferlöffel und eiserne Pfeilspitze aus Tavek-kel](ch008.xhtml#b067)
+* [Wandmalereien aus der ersten verschütteten Stadt.](ch008.xhtml#b068) Chromotafel (Separatbild)
+* [Ruinen eines Hauses in der alten Stadt Takla-makan](ch008.xhtml#b069)
+* [Buddhas aus der alten Stadt Takla-makan (⅓ nat. Größe)](ch008.xhtml#b069) (Separatbild)
+* [Haus mit bemalten Querwänden in der alten Stadt Takla-makan](ch008.xhtml#b071)
 * Lager eines neuentdeckten Hirtenstammes. Von Lindberg (Separatbild)
 * Pfahlrost eines Hauses in der alten Stadt bei Kara-dung
 * Muhammed Bai
