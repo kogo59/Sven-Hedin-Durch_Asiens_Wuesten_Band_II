@@ -40,11 +40,11 @@ hergestellt.</small>
 * [Ruinen eines Hauses in der alten Stadt Takla-makan](ch008.xhtml#b069)
 * [Buddhas aus der alten Stadt Takla-makan (⅓ nat. Größe)](ch008.xhtml#b069) (Separatbild)
 * [Haus mit bemalten Querwänden in der alten Stadt Takla-makan](ch008.xhtml#b071)
-* Lager eines neuentdeckten Hirtenstammes. Von Lindberg (Separatbild)
-* Pfahlrost eines Hauses in der alten Stadt bei Kara-dung
-* Muhammed Bai
-* Muhammed Bai's Schilfhütte.
-* Mein Reittamel
+* [Lager eines neuentdeckten Hirtenstammes.](ch009.xhtml#b086) Von Lindberg (Separatbild)
+* [Pfahlrost eines Hauses in der alten Stadt bei Kara-dung](ch009.xhtml#b087)
+* [Muhammed Bai](ch009.xhtml#b091)
+* [Muhammed Bai's Schilfhütte](ch009.xhtml#b094)
+* Mein Reitkamel
 * Kopf eines zahmen Kamels
 
 
