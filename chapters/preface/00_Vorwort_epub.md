@@ -44,8 +44,53 @@ hergestellt.</small>
 * [Pfahlrost eines Hauses in der alten Stadt bei Kara-dung](ch009.xhtml#b087)
 * [Muhammed Bai](ch009.xhtml#b091)
 * [Muhammed Bai's Schilfhütte](ch009.xhtml#b094)
-* Mein Reitkamel
-* Kopf eines zahmen Kamels
+* [Mein Reitkamel](ch010.xhtml#b101)
+* [Kopf eines zahmen Kamels](ch010.xhtml#b102)
+* [Kopf eines wilden Kamels](ch010.xhtml#b103)
+* [Lager unter der Pappel in der Wüste](ch010.xhtml#b113)
+* [Mittagsrast im glühenden Sand.](ch010.xhtml#b114) Chromotafel nach Ljungdahl (Separatbild)
+* Ein unbändiges Kamel. Von Lindberg  (Separatbild)
+* Uebergang über den Kontsche-darja bei seiner Mündung in den Maltak-köll
+* Kuntschektan Bek
+* Fähre über den Kontsche-darija. (Separatbild)
+* Vertreibung der Mücken durch Anzünden eines Schilffeldes (Separatbild)
+* Idyllische Bootfahrt auf dem Ilek. Von Ljungdahl (Separatbild)
+* Lop-Mann im Einbaum (Separatbild)
+* Lop-Knabe vom Sadak-kͥöll
+* Kuntschekkan Bek's Schwiegertochter mit einem Spinnrocken
+* Kinder aus Kum-tschappgan
+* Lopliks auf dem Tarim bei Kumtschappgan. Von Lindberg (Separatbild)
+* In einem Schilftunnel des Lop-nor. Von Nyblom (Separatbild)
+* Antike Kupfervase aus Vasch-schari
+* Bazarstraße in Chotan. Von Larsson-Palm (Separatbild)
+* Das Flußbett des Tollan-chodscha
+* Togda Muhammed Bek (Separatbild)
+* Unser Lager bei Dalai-kurgan
+* Am Nordfuße des Kven-lun
+* Einer unserer Tagliks
+* Das erste Lager in Tibet (Separatbild)
+* Aussicht nach Südwesten vom Lager Nr. V
+* Aussicht nach Nordwesten vom Lager Nr. VI
+* Durchbruchsthal bei Lager Nr. VIII, wo Littledale gelagert
+* Verhör meiner meuterischen Leute. Von Adlercreutz   (Separatbild)
+* Der Arka-tag gegen Nordnordwesten, von dem Tuffberge bei Lager Nr. XI aus
+* Südseite des Arka-tag, vom Lager Nr. XI aus (Separatbild)
+* Aussicht nach Südosten vom Lager Nr. XIV
+* Der angeschossene Chulan
+* Sonnenuntergang bei Lager Nr. XV
+* Der große Salzsee im Westen des Lagers Nr. XV
+* Möve vom See Nr. 5
+* Aussicht nach Westen vom Lager Nr. XVIII
+* Die erlegte Yakkuh
+* Der erbeutete Yakstier von der Seite
+* Der erbeutete Yakstier von von vorn
+* König Oskar-Berg in Tibet (Separatbild)
+* Am Lagerfeuer in Tibet. Von Adlercreutz (Separatbild)
+* Aussicht vom Lager Nr. XXV auf See Nr. 18
+* Schneesturm in Tibet. Von Adlercreutz  (Separatbild)
+* Der östliche Theil des Arka-tag, von Südosten gesehen
+* Aussicht nach Süden vom Lager Nr. XXIX
+
 
 
 
