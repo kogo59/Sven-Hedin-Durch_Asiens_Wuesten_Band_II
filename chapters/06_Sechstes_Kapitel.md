@@ -49,7 +49,7 @@ Stammbaum des wilden Kamels verfolgen könnten, wir in der Zeit nur um einige
 hundert Generationen zurückzugehen brauchten, um wieder beim zahmen Kamel
 anzulangen. Ich werde einige Gründe für meine Ansicht anführen.
 
-Prschewalskij fand das wilde Kamel im Astun-tag und am Lopnor, und er zieht aus
+Prschewalskij fand das wilde Kamel im Astun-tag und am Lop-nor, und er zieht aus
 seinen Beobachtungen den Schluß, daß die jetzigen wilden Kamele direkt von
 wilden Vorfahren abstammen, sich aber wahrscheinlich hin und wieder mit zahmen
 Kamelen, die aus der Gefangenschaft entflohen waren, vermischt haben. Diese
@@ -277,7 +277,7 @@ unsern Kamelen verglichen, etwas nackt aus.
 
 Es maß 3,<small>3</small> Meter in der Länge, von der Unterlippe über den Bauch
 nach der Unterseite der Schwanzwurzel gemessen, und der Umfang um den Leib
-betrug 2,<small>14</small>  Meter, zwischen den Höckern. Die Schwielen der
+betrug 2,<small>14</small> Meter, zwischen den Höckern. Die Schwielen der
 Vorderfüße waren 21 Centimeter breit und 22 Centimeter lang, und ihre Wülste
 gröber und weniger abgenützt als die unserer Kamele.
 
