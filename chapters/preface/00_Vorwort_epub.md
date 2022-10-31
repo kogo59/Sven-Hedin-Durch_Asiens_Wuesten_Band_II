@@ -53,14 +53,14 @@ hergestellt.</small>
 * [Uebergang über den Kontsche-darja bei seiner Mündung in den Maltak-köll](ch012.xhtml#b145)
 * [Kuntschektan Bek](ch012.xhtml#b151)
 * [Fähre über den Kontsche-darija](ch012.xhtml#b152) (Separatbild)
-* Vertreibung der Mücken durch Anzünden eines Schilffeldes (Separatbild)
-* Idyllische Bootfahrt auf dem Ilek. Von Ljungdahl (Separatbild)
-* Lop-Mann im Einbaum (Separatbild)
-* Lop-Knabe vom Sadak-kͥöll
-* Kuntschekkan Bek's Schwiegertochter mit einem Spinnrocken
-* Kinder aus Kum-tschappgan
-* Lopliks auf dem Tarim bei Kumtschappgan. Von Lindberg (Separatbild)
-* In einem Schilftunnel des Lop-nor. Von Nyblom (Separatbild)
+* [Vertreibung der Mücken durch Anzünden eines Schilffeldes](ch014.xhtml#b158) (Separatbild)
+* [Idyllische Bootfahrt auf dem Ilek.](ch014.xhtml#b160) Von Ljungdahl (Separatbild)
+* [Lop-Mann im Einbaum](ch014.xhtml#b162) (Separatbild)
+* [Lop-Knabe vom Sadak-kͥöll](ch014.xhtml#b163)
+* [Kuntschekkan Bek's Schwiegertochter mit einem Spinnrocken](ch014.xhtml#b168)
+* [Kinder aus Kum-tschappgan](ch014.xhtml#b169)
+* [Lopliks auf dem Tarim bei Kum-tschappgan.](ch014.xhtml#b170) Von Lindberg (Separatbild)
+* [In einem Schilftunnel des Lop-nor.](ch014.xhtml#b172) Von Nyblom (Separatbild)
 * Antike Kupfervase aus Vasch-schari
 * Bazarstraße in Chotan. Von Larsson-Palm (Separatbild)
 * Das Flußbett des Tollan-chodscha

@@ -488,7 +488,7 @@ Stadt nicht.
 Aber Korla liegt an der großen Karawanen- und Handelsstraße zwischen Peking und
 dem Westen und sieht daher viele reiche und vornehme Chinesen vorbeireisen. Was
 mich dort besonders interessirte, war, daß es an dem Flusse Kontsche- oder
-Korla-darja liegt, der aus dem *Bagrasch-köll*^[^0702]^ kommt, dem größten See des
+*Korla-darja* liegt, der aus dem *Bagrasch-köll*^[^0701]^^[^0702]^ kommt, dem größten See des
 innersten Asiens, gegen den der Lop-nor nur ein erbärmlicher Sumpf ist.
 
 Am 11. März maß ich die Wassermenge des Kontsche-darja und fand, daß sie aus
