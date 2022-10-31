@@ -49,10 +49,10 @@ hergestellt.</small>
 * [Kopf eines wilden Kamels](ch010.xhtml#b103)
 * [Lager unter der Pappel in der Wüste](ch010.xhtml#b113)
 * [Mittagsrast im glühenden Sand.](ch010.xhtml#b114) Chromotafel nach Ljungdahl (Separatbild)
-* Ein unbändiges Kamel. Von Lindberg  (Separatbild)
-* Uebergang über den Kontsche-darja bei seiner Mündung in den Maltak-köll
-* Kuntschektan Bek
-* Fähre über den Kontsche-darija. (Separatbild)
+* [Ein unbändiges Kamel.](ch012.xhtml#b140) Von Lindberg  (Separatbild)
+* [Uebergang über den Kontsche-darja bei seiner Mündung in den Maltak-köll](ch012.xhtml#b145)
+* [Kuntschektan Bek](ch012.xhtml#b151)
+* [Fähre über den Kontsche-darija](ch012.xhtml#b152) (Separatbild)
 * Vertreibung der Mücken durch Anzünden eines Schilffeldes (Separatbild)
 * Idyllische Bootfahrt auf dem Ilek. Von Ljungdahl (Separatbild)
 * Lop-Mann im Einbaum (Separatbild)
@@ -99,7 +99,7 @@ hergestellt.</small>
 ****
 ::::
 
-* Die Veränderungen des Lop-nar
+* [Die Veränderungen des Lop-nor](ch012.xhtml#b49)
 * Uebersichtskarte zu Sven Hedin's Reisen. Maßstab 1:30&nbsp;000&nbsp;000.
 * Tarim-Becken, Lop-nor, Nord-Tibet und Zaidam. Maßstab 1:3&nbsp;000&nbsp;000.
 
