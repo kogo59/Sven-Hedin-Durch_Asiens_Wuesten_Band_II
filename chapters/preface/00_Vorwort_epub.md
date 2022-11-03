@@ -62,7 +62,7 @@ hergestellt.</small>
 * [Lopliks auf dem Tarim bei Kum-tschappgan.](ch012.xhtml#b170) Von Lindberg (Separatbild)
 * [In einem Schilftunnel des Lop-nor.](ch012.xhtml#b172) Von Nyblom (Separatbild)
 * [Antike Kupfervase aus Vasch-schari](ch013.xhtml#b184)
-* Bazarstraße in Chotan. Von Larsson-Palm (Separatbild)
+* [Bazarstraße in Chotan.](ch015.xhtml#b206) Von Larsson-Palm (Separatbild)
 * Das Flußbett des Tollan-chodscha
 * Togda Muhammed Bek (Separatbild)
 * Unser Lager bei Dalai-kurgan
