@@ -475,7 +475,6 @@ die Töne der Abschiedsmusik.
 ****
 ::::
 
-
 ### **Anmerkungen** {.break-before .unnumbered}
 
 [^1200]: [*Pundit*: vergleiche [Pundit](https://de.wikipedia.org/wiki/Pundit_(Vermesser))]{.footnote}

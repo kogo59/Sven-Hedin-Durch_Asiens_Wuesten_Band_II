@@ -63,12 +63,12 @@ hergestellt.</small>
 * [In einem Schilftunnel des Lop-nor.](ch012.xhtml#b172) Von Nyblom (Separatbild)
 * [Antike Kupfervase aus Vasch-schari](ch013.xhtml#b184)
 * [Bazarstraße in Chotan.](ch015.xhtml#b206) Von Larsson-Palm (Separatbild)
-* Das Flußbett des Tollan-chodscha
-* Togda Muhammed Bek (Separatbild)
-* Unser Lager bei Dalai-kurgan
-* Am Nordfuße des Kven-lun
-* Einer unserer Tagliks
-* Das erste Lager in Tibet (Separatbild)
+* [Das Flußbett des Tollan-chodscha](ch016.xhtml#b213)
+* [Togda Muhammed Bek](ch016.xhtml#b214) (Separatbild)
+* [Unser Lager bei Dalai-kurgan](ch016.xhtml#b215)
+* [Am Nordfuße des Kven-lun](ch016.xhtml#b217)
+* [Einer unserer Tagliks](ch016.xhtml#b223)
+* [Das erste Lager in Tibet](ch016.xhtml#b224) (Separatbild)
 * Aussicht nach Südwesten vom Lager Nr. V
 * Aussicht nach Nordwesten vom Lager Nr. VI
 * Durchbruchsthal bei Lager Nr. VIII, wo Littledale gelagert
