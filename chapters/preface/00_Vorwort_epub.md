@@ -69,7 +69,7 @@ hergestellt.</small>
 * [Am Nordfuße des Kven-lun](ch016.xhtml#b217)
 * [Einer unserer Tagliks](ch016.xhtml#b223)
 * [Das erste Lager in Tibet](ch016.xhtml#b224) (Separatbild)
-* Aussicht nach Südwesten vom Lager Nr. V
+* [Aussicht nach Südwesten vom Lager Nr. V](ch016.xhtml#b239)
 * Aussicht nach Nordwesten vom Lager Nr. VI
 * Durchbruchsthal bei Lager Nr. VIII, wo Littledale gelagert
 * Verhör meiner meuterischen Leute. Von Adlercreutz   (Separatbild)
