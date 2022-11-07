@@ -76,14 +76,14 @@ hergestellt.</small>
 * [Der Arka-tag gegen Nordnordwesten, von dem Tuffberge bei Lager Nr. XI aus](ch019.xhtml#b262)
 * [Südseite des Arka-tag, vom Lager Nr. XI aus](ch019.xhtml#b264) (Separatbild)
 * [Aussicht nach Südosten vom Lager Nr. XIV](ch019.xhtml#b271)
-* Der angeschossene Chulan
-* Sonnenuntergang bei Lager Nr. XV
-* Der große Salzsee im Westen des Lagers Nr. XV
-* Möve vom See Nr. 5
-* Aussicht nach Westen vom Lager Nr. XVIII
-* Die erlegte Yakkuh
-* Der erbeutete Yakstier von der Seite
-* Der erbeutete Yakstier von von vorn
+* [Der angeschossene Chulan](ch020.xhtml#b276)
+* [Sonnenuntergang bei Lager Nr. XV](ch020.xhtml#b278)
+* [Der große Salzsee im Westen des Lagers Nr. XV](ch020.xhtml#b279)
+* [Möve vom See Nr. 5](ch020.xhtml#b280)
+* [Aussicht nach Westen vom Lager Nr. XVIII](ch020.xhtml#b283)
+* [Die erlegte Yakkuh](ch020.xhtml#b285)
+* [Der erbeutete Yakstier von der Seite](ch020.xhtml#b288)
+* [Der erbeutete Yakstier von von vorn](ch020.xhtml#b289)
 * König Oskar-Berg in Tibet (Separatbild)
 * Am Lagerfeuer in Tibet. Von Adlercreutz (Separatbild)
 * Aussicht vom Lager Nr. XXV auf See Nr. 18
