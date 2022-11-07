@@ -73,9 +73,9 @@ hergestellt.</small>
 * [Aussicht nach Nordwesten vom Lager Nr. VI](ch018.xhtml#b245)
 * [Durchbruchsthal bei Lager Nr. VIII, wo Littledale gelagert](ch018.xhtml#b249)
 * [Verhör meiner meuterischen Leute.](ch018.xhtml#b254) Von Adlercreutz (Separatbild)
-* Der Arka-tag gegen Nordnordwesten, von dem Tuffberge bei Lager Nr. XI aus
-* Südseite des Arka-tag, vom Lager Nr. XI aus (Separatbild)
-* Aussicht nach Südosten vom Lager Nr. XIV
+* [Der Arka-tag gegen Nordnordwesten, von dem Tuffberge bei Lager Nr. XI aus](ch019.xhtml#b262)
+* [Südseite des Arka-tag, vom Lager Nr. XI aus](ch019.xhtml#b264) (Separatbild)
+* [Aussicht nach Südosten vom Lager Nr. XIV](ch019.xhtml#b271)
 * Der angeschossene Chulan
 * Sonnenuntergang bei Lager Nr. XV
 * Der große Salzsee im Westen des Lagers Nr. XV

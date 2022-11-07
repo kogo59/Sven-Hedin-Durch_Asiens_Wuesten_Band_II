@@ -2,7 +2,6 @@
 
 ::: justified
 
-
 | 15. August. Zu unserm großen Glück ging es Islam Bai heute so gut, daß wir zur
 gewöhnlichen Zeit aufbrechen konnten, nachdem eins der kranken Pferde
 verendet war. Es war das erste, das uns fiel, und sollte leider nur zu viel
