@@ -83,13 +83,54 @@ hergestellt.</small>
 * [Aussicht nach Westen vom Lager Nr. XVIII](ch020.xhtml#b283)
 * [Die erlegte Yakkuh](ch020.xhtml#b285)
 * [Der erbeutete Yakstier von der Seite](ch020.xhtml#b288)
-* [Der erbeutete Yakstier von von vorn](ch020.xhtml#b289)
-* König Oskar-Berg in Tibet (Separatbild)
-* Am Lagerfeuer in Tibet. Von Adlercreutz (Separatbild)
-* Aussicht vom Lager Nr. XXV auf See Nr. 18
-* Schneesturm in Tibet. Von Adlercreutz  (Separatbild)
-* Der östliche Theil des Arka-tag, von Südosten gesehen
-* Aussicht nach Süden vom Lager Nr. XXIX
+* [Der erbeutete Yakstier von vorn](ch020.xhtml#b289)
+* [König Oskar-Berg in Tibet](ch020.xhtml#b292) (Separatbild)
+* [Am Lagerfeuer in Tibet.](ch021.xhtml#b295) Von Adlercreutz (Separatbild)
+* [Aussicht vom Lager Nr. XXV auf See Nr. 18](ch021.xhtml#b298)
+* [Schneesturm in Tibet.](ch021.xhtml#b300) Von Adlercreutz  (Separatbild)
+* [Der östliche Theil des Arka-tag, von Südosten gesehen](ch021.xhtml#b303)
+* [Aussicht nach Süden vom Lager Nr. XXIX](ch021.xhtml#b305)
+* [Aussicht nach Nordwesten bei Lager Nr. XXXI](ch021.xhtml#b308)
+* [Blick über den See Nr. 20 bei Lager Nr. XXXI](ch021.xhtml#b309)
+* [Heraufziehender Sturm am See Nr. 20](ch021.xhtml#b310) (Separatbild)
+* [Am See Nr. 20 in Nordtibet](ch021.xhtml#b311)
+* [Unsere letzten Pferde und Esel](ch021.xhtml#b313)
+* [Angriff des verwundeten Yak auf Islam Bai.](ch021.xhtml#b314) Von Adlercreutz. (Separatbild)
+* Obo bei Lager Nr. XXXVII
+* Stein mit tibetanischer Inschrift „om mani padme hum"
+* Die ersten Mongolen: Dortsche, sein Sohn und sein Schwager
+* Jike-tsohan-gol oberhalb Harato
+* Mein nächtliches Erscheinen im Mongolendorf. Von Nyblom. (Separatbild)
+* Mongolischer Bettler
+* Tibetanische Amuletthülsen aus Silber. Aus Lassa. Nat. Größe. (Separatbild)
+* Amulettfutterale aus Silber und Messing (die meisten aus Lassa , ½ nat. Größe)
+* Burchane aus Lassa (⅗ natürlicher Größe)
+* Mongolischer Lama
+* Tibetanische Burchane aus Thon. Aus Lassa. Natürliche Größe. (Separatbild)
+* Mongolisches Mädchen
+* Lamaistische Tempelfahne aus Lassa Separatbild)
+* Unser Führer Loppsen
+* Mongole aus Ova-tögöruck
+* Mongolenlager in Zaidam. Von Lindberg (Separatbild)
+* Aus dem Obo von Hlakimto
+* Mongolischer Junge aus Süd-Zaidam
+* Angriff der Räuber. Von Adlercreutz (Separatbild)
+* Tibetanische Räuber beschleichen unser Lager. Von Adlercreutz. (Separatbild)
+* Tangutenjunge
+* Tanguten-Lager bei Dulan-jung
+* Nordwestende des Koko-nor (Separatbild)
+* Tangut aus Bagha-ulsnnnnn  (Separatbild)
+* Junger Tangut aus Koko-nor (Separatbild)
+* Hauptstraße in Lusar
+* Mongolische Lamas 
+* Das buddhistische Kloster der Zehntausend Bilder in Kum-bum. (Separatbild)
+* Kloster Kum-bunmn
+* Tempelfahne aus Kum-bum, die Tempel von Lassa und Kum-bum, Tsung Kaba u. s. w. darstellend
+* Silberne Schale (aus Lassa); Gebettrommel aus 2 Hirnschalen (aus Kum—bum); Gebetmühlen aus Stoff, Messing und Silber (aus Kum-bum) (½ natürlicher Größe)
+* Ein Lama
+* Lamaistische Tempelfahne (Separatbild)
+* Stadithor in Si-ning-fu
+* Thor in einer Straße von Si-ning-fu
 
 
 

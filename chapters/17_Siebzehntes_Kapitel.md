@@ -396,7 +396,7 @@ Sommer so hart und bitter ist, daß unsere Karawanenthiere nur durch den Hunger
 dazu getrieben werden konnten, davon zu fressen.
 
 :::: { .wrap-80  }
-![Der erbeutete Yakstier von von vorn.](Durch_Asiens_Wuesten_II_289.jpg "Der erbeutete Yakstier von von vorn."){#b289}
+![Der erbeutete Yakstier von vorn.](Durch_Asiens_Wuesten_II_289.jpg "Der erbeutete Yakstier von vorn."){#b289}
 ::::
 
 Wenn der Yak verfolgt wird, läuft er in ziemlich schnellem Trab mit hängendem
@@ -477,6 +477,10 @@ nächsten Bache oder er geht nach dem Saume der Gletscher und den erfrischenden
 Gefilden des ewigen Schnees hinauf. Hier findet er ein besonderes Vergnügen
 daran, sich in dem mehlfeinen Firnschnee zu wälzen und sich in denselben zu
 legen.
+
+:::: { .wrap-80  }
+![König Oskar-Berg in Tibet.](Durch_Asiens_Wuesten_II_292.jpg "König Oskar-Berg in Tibet."){#b292}
+::::
 
 :::
 
