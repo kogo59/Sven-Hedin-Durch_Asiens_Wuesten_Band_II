@@ -96,12 +96,12 @@ hergestellt.</small>
 * [Am See Nr. 20 in Nordtibet](ch021.xhtml#b311)
 * [Unsere letzten Pferde und Esel](ch021.xhtml#b313)
 * [Angriff des verwundeten Yak auf Islam Bai.](ch021.xhtml#b314) Von Adlercreutz. (Separatbild)
-* Obo bei Lager Nr. XXXVII
-* Stein mit tibetanischer Inschrift „om mani padme hum"
-* Die ersten Mongolen: Dortsche, sein Sohn und sein Schwager
-* Jike-tsohan-gol oberhalb Harato
-* Mein nächtliches Erscheinen im Mongolendorf. Von Nyblom. (Separatbild)
-* Mongolischer Bettler
+* [Obo bei Lager Nr. XXXVII](ch022.xhtml#b321)
+* [Stein mit tibetanischer Inschrift „om mani padme hum"](ch022.xhtml#b323)
+* [Die ersten Mongolen: Dortsche, sein Sohn und sein Schwager](ch022.xhtml#b328)
+* [Jike-tsohan-gol oberhalb Harato](ch022.xhtml#b333)
+* [Mein nächtliches Erscheinen im Mongolendorf.](ch022.xhtml#b334) Von Nyblom. (Separatbild)
+* [Mongolischer Bettler](ch022.xhtml#b338)
 * Tibetanische Amuletthülsen aus Silber. Aus Lassa. Nat. Größe. (Separatbild)
 * Amulettfutterale aus Silber und Messing (die meisten aus Lassa , ½ nat. Größe)
 * Burchane aus Lassa (⅗ natürlicher Größe)
