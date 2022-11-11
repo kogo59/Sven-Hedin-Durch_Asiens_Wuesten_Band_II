@@ -102,16 +102,16 @@ hergestellt.</small>
 * [Jike-tsohan-gol oberhalb Harato](ch022.xhtml#b333)
 * [Mein nächtliches Erscheinen im Mongolendorf.](ch022.xhtml#b334) Von Nyblom. (Separatbild)
 * [Mongolischer Bettler](ch022.xhtml#b338)
-* Tibetanische Amuletthülsen aus Silber. Aus Lassa. Nat. Größe. (Separatbild)
-* Amulettfutterale aus Silber und Messing (die meisten aus Lassa , ½ nat. Größe)
-* Burchane aus Lassa (⅗ natürlicher Größe)
-* Mongolischer Lama
-* Tibetanische Burchane aus Thon. Aus Lassa. Natürliche Größe. (Separatbild)
-* Mongolisches Mädchen
-* Lamaistische Tempelfahne aus Lassa Separatbild)
-* Unser Führer Loppsen
-* Mongole aus Ova-tögöruck
-* Mongolenlager in Zaidam. Von Lindberg (Separatbild)
+* [Tibetanische Amuletthülsen aus Silber. Aus Lassa. Nat. Größe](ch023.xhtml#b340) (Separatbild)
+* [Amulettfutterale aus Silber und Messing (die meisten aus Lassa , ½ nat. Größe)](ch023.xhtml#b341)
+* [Burchane aus Lassa (⅗ natürlicher Größe)](ch023.xhtml#b344)
+* [Mongolischer Lama](ch023.xhtml#b345)
+* [Tibetanische Burchane aus Thon. Aus Lassa. Natürliche Größe.](ch023.xhtml#b346a) (Separatbild)
+* [Mongolisches Mädchen](ch023.xhtml#b349)
+* [Lamaistische Tempelfahne aus Lassa](ch023.xhtml#b352) (Separatbild)
+* [Unser Führer Loppsen](ch023.xhtml#b353)
+* [Mongole aus Ova-tögöruck](ch023.xhtml#b354)
+* [Mongolenlager in Zaidam.](ch023.xhtml#b356) Von Lindberg (Separatbild)
 * Aus dem Obo von Hlakimto
 * Mongolischer Junge aus Süd-Zaidam
 * Angriff der Räuber. Von Adlercreutz (Separatbild)
