@@ -111,12 +111,12 @@ hergestellt.</small>
 * [Lamaistische Tempelfahne aus Lassa](ch023.xhtml#b352) (Separatbild)
 * [Unser Führer Loppsen](ch023.xhtml#b353)
 * [Mongole aus Ova-tögöruck](ch023.xhtml#b354)
-* [Mongolenlager in Zaidam.](ch023.xhtml#b356) Von Lindberg (Separatbild)
-* Aus dem Obo von Hlakimto
-* Mongolischer Junge aus Süd-Zaidam
-* Angriff der Räuber. Von Adlercreutz (Separatbild)
-* Tibetanische Räuber beschleichen unser Lager. Von Adlercreutz. (Separatbild)
-* Tangutenjunge
+* [Mongolenlager in Zaidam.](ch023.xhtml#b356) Von Lindberg. (Separatbild)
+* [Aus dem Obo von Hlakimto](ch024.xhtml#b364)
+* [Mongolischer Junge aus Süd-Zaidam](ch024.xhtml#b367)
+* [Angriff der Räuber.](ch024.xhtml#b370) Von Adlercreutz. (Separatbild)
+* [Tibetanische Räuber beschleichen unser Lager.](ch024.xhtml#b372) Von Adlercreutz. (Separatbild)
+* [Tangutenjunge](ch024.xhtml#b376)
 * Tanguten-Lager bei Dulan-jung
 * Nordwestende des Koko-nor (Separatbild)
 * Tangut aus Bagha-ulsnnnnn  (Separatbild)
