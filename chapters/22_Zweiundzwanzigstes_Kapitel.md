@@ -438,7 +438,7 @@ Beamte. In dieser Hinsicht unterscheiden sich diese Provinzen sehr von
 Ostturkestan, wo die Chinesen eine vortreffliche Verwaltung eingerichtet haben.
 
 :::: { .wrap-60 .break-before }
-![Tangut aus Bagha-ulan.](Durch_Asiens_Wuesten_II_392.jpg "Tangut aus Bagha-ulan."){#b392}
+![Junger Tangut aus Koko-nor.](Durch_Asiens_Wuesten_II_392.jpg "Junger Tangut aus Koko-nor."){#b392}
 ::::
 
 Die Mongolen nennen ihre raubgierigen Nachbarn „Chara-tangut“, schwarze

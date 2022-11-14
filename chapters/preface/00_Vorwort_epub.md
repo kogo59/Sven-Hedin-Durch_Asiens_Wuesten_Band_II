@@ -120,13 +120,13 @@ hergestellt.</small>
 * [Tanguten-Lager bei Dulan-jung](ch025.xhtml#b380)
 * [Nordwestende des Koko-nor](ch025.xhtml#b386) (Separatbild)
 * [Tangut aus Bagha-ulan](ch025.xhtml#b390)  (Separatbild)
-* Junger Tangut aus Koko-nor (Separatbild)
-* Hauptstraße in Lusar
-* Mongolische Lamas 
-* Das buddhistische Kloster der Zehntausend Bilder in Kum-bum. (Separatbild)
-* Kloster Kum-bunmn
-* Tempelfahne aus Kum-bum, die Tempel von Lassa und Kum-bum, Tsung Kaba u. s. w. darstellend
-* Silberne Schale (aus Lassa); Gebettrommel aus 2 Hirnschalen (aus Kum—bum); Gebetmühlen aus Stoff, Messing und Silber (aus Kum-bum) (½ natürlicher Größe)
+* [Junger Tangut aus Koko-nor](ch025.xhtml#b392) (Separatbild)
+* [Hauptstraße in Lusar](ch026.xhtml#b404)
+* [Mongolische Lamas](ch026.xhtml#b405) 
+* [Das buddhistische Kloster der Zehntausend Bilder in Kum-bum](ch026.xhtml#b406) (Separatbild)
+* [Kloster Kum-bum](ch026.xhtml#b407)
+* [Tempelfahne aus Kum-bum, die Tempel von Lassa und Kum-bum, Tsung Kaba u. s. w. darstellend](ch026.xhtml#b410)
+* [Silberne Schale (aus Lassa); Gebettrommel aus 2 Hirnschalen (aus Kum—bum); Gebetmühlen aus Stoff, Messing und Silber (aus Kum-bum) (½ natürlicher Größe)](ch026.xhtml#b411)
 * Ein Lama
 * Lamaistische Tempelfahne (Separatbild)
 * Stadithor in Si-ning-fu
