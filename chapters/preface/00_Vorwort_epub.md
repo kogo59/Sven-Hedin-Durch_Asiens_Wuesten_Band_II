@@ -117,9 +117,9 @@ hergestellt.</small>
 * [Angriff der Räuber.](ch024.xhtml#b370) Von Adlercreutz. (Separatbild)
 * [Tibetanische Räuber beschleichen unser Lager.](ch024.xhtml#b372) Von Adlercreutz. (Separatbild)
 * [Tangutenjunge](ch024.xhtml#b376)
-* Tanguten-Lager bei Dulan-jung
-* Nordwestende des Koko-nor (Separatbild)
-* Tangut aus Bagha-ulsnnnnn  (Separatbild)
+* [Tanguten-Lager bei Dulan-jung](ch025.xhtml#b380)
+* [Nordwestende des Koko-nor](ch025.xhtml#b386) (Separatbild)
+* [Tangut aus Bagha-ulan](ch025.xhtml#b390)  (Separatbild)
 * Junger Tangut aus Koko-nor (Separatbild)
 * Hauptstraße in Lusar
 * Mongolische Lamas 
