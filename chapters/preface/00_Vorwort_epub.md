@@ -127,10 +127,22 @@ hergestellt.</small>
 * [Kloster Kum-bum](ch026.xhtml#b407)
 * [Tempelfahne aus Kum-bum, die Tempel von Lassa und Kum-bum, Tsung Kaba u. s. w. darstellend](ch026.xhtml#b410)
 * [Silberne Schale (aus Lassa); Gebettrommel aus 2 Hirnschalen (aus Kum—bum); Gebetmühlen aus Stoff, Messing und Silber (aus Kum-bum) (½ natürlicher Größe)](ch026.xhtml#b411)
-* Ein Lama
-* Lamaistische Tempelfahne (Separatbild)
-* Stadithor in Si-ning-fu
-* Thor in einer Straße von Si-ning-fu
+* [Ein Lama](ch026.xhtml#b414)
+* [Lamaistische Tempelfahne](ch026.xhtml#b416) (Separatbild)
+* [Stadtthor in Si-ning-fu](ch027.xhtml#b421)
+* [Thor in einer Straße von Si-ning-fu](ch027.xhtml#b424)
+* [Ping-fan](ch027.xhtml#b430)
+* Vor dem Thore von Liang-tscheo-fu (Separatbild)
+* Aeußeres eines Tempels bei Liang-tscheo-fu
+* Der Kriegsgott in einem Tempel bei Liang--tscheo-fu
+* Hof eines Tempels bei Liang-tscheo-su
+* Inneres eines chinesischen Tempels in Liang-tscheo-fu
+* Mongolin
+* Stadtthor in Ning-scha Separatbild)
+* Mongolische Mädchen
+* Die innere Große Mauer zwischen Kalgan und Peking
+* Mongolische Gürtelgehänge für Feuerstahl, für Dolche und elfenbeinerne Eßstäbchen in silbernen Scheiden. Aus Kalgan
+* Der Maidari-Tempel in Urga
 
 
 

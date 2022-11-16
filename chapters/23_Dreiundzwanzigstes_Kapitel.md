@@ -432,6 +432,10 @@ Augenbrauen lassen sie eher als böse Geister, denn als Götter erscheinen. Aber
 man hat dadurch die schreckliche, vernichtende Macht der Götter darstellen
 wollen.
 
+:::: { .wrap-60 .break-before }
+![Ein Lama.](Durch_Asiens_Wuesten_II_414.jpg "Ein Lama."){#b414}
+::::
+
 Die Architektur ist eigenthümlich und phantastisch und folgt den Gesetzen des
 tibetanischen Geschmacks. Einem Europäer, der an harmonische Formen gewöhnt ist,
 kommt sie zuletzt ermüdend vor. Das Gefühl von Ruhe und Frieden, das man in den
@@ -471,6 +475,10 @@ boten mir solche an. Diejenigen, welche nicht zu theuer waren, wanderten in
 meine Kisten. Ich kaufte auch verschiedene Opfergefäße von Messing, einige
 silberne Gavos und eine Damaruh oder Gebettrommel, die aus zwei menschlichen
 Hirnschalen zusammengesetzt war.
+
+:::: { .wrap-60 .break-before }
+![Lamaistische Tempelfahne.](Durch_Asiens_Wuesten_II_416.jpg "Lamaistische Tempelfahne."){#b416}
+::::
 
 :::
 
