@@ -422,6 +422,9 @@ machen. Die beiden letztern wohnten in einem andern Hause, ein gutes Stück von
 der eigentlichen Missionsstation, hatten eigenen Haushalt und chinesische Diener
 und waren muthig und unbekümmert um ihre Sicherheit.
 
+:::: { .wrap-100  }
+![Vor dem Thore von Liang-tscheo-fu.](Durch_Asiens_Wuesten_II_434.jpg "Vor dem Thore von Liang-tscheo-fu."){#b434}
+::::
 
 :::
 

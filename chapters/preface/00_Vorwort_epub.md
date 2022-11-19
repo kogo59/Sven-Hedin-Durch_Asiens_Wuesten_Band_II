@@ -132,12 +132,12 @@ hergestellt.</small>
 * [Stadtthor in Si-ning-fu](ch027.xhtml#b421)
 * [Thor in einer Straße von Si-ning-fu](ch027.xhtml#b424)
 * [Ping-fan](ch027.xhtml#b430)
-* Vor dem Thore von Liang-tscheo-fu (Separatbild)
-* Aeußeres eines Tempels bei Liang-tscheo-fu
-* Der Kriegsgott in einem Tempel bei Liang--tscheo-fu
-* Hof eines Tempels bei Liang-tscheo-su
-* Inneres eines chinesischen Tempels in Liang-tscheo-fu
-* Mongolin
+* [Vor dem Thore von Liang-tscheo-fu](ch027.xhtml#b434) (Separatbild)
+* [Aeußeres eines Tempels bei Liang-tscheo-fu](ch028.xhtml#b438)
+* [Der Kriegsgott in einem Tempel bei Liang-tscheo-fu](ch028.xhtml#b439)
+* [Hof eines Tempels bei Liang-tscheo-su](ch028.xhtml#b442)
+* [Inneres eines chinesischen Tempels in Liang-tscheo-fu.](ch028.xhtml#b444)
+* [Mongolin](ch028.xhtml#b447)
 * Stadtthor in Ning-scha Separatbild)
 * Mongolische Mädchen
 * Die innere Große Mauer zwischen Kalgan und Peking
