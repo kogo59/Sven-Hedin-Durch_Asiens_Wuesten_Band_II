@@ -138,11 +138,11 @@ hergestellt.</small>
 * [Hof eines Tempels bei Liang-tscheo-su](ch028.xhtml#b442)
 * [Inneres eines chinesischen Tempels in Liang-tscheo-fu.](ch028.xhtml#b444)
 * [Mongolin](ch028.xhtml#b447)
-* Stadtthor in Ning-scha Separatbild)
-* Mongolische Mädchen
-* Die innere Große Mauer zwischen Kalgan und Peking
-* Mongolische Gürtelgehänge für Feuerstahl, für Dolche und elfenbeinerne Eßstäbchen in silbernen Scheiden. Aus Kalgan
-* Der Maidari-Tempel in Urga
+* [Stadtthor in Ning-scha](ch029.xhtml#b456) (Separatbild)
+* [Mongolische Mädchen](ch029.xhtml#b461)
+* [Die innere Große Mauer zwischen Kalgan und Peking](ch029.xhtml#b464)
+* [Mongolische Gürtelgehänge für Feuerstahl, für Dolche und elfenbeinerne Eßstäbchen in silbernen Scheiden. Aus Kalgan.](ch029.xhtml#b468)
+* [Der Maidari-Tempel in Urga](ch029.xhtml#b469)
 
 
 
@@ -153,8 +153,8 @@ hergestellt.</small>
 ::::
 
 * [Die Veränderungen des Lop-nor](ch011.xhtml#b149)
-* Uebersichtskarte zu Sven Hedin's Reisen. Maßstab 1:30&nbsp;000&nbsp;000.
-* Tarim-Becken, Lop-nor, Nord-Tibet und Zaidam. Maßstab 1:3&nbsp;000&nbsp;000.
+* [Uebersichtskarte zu Sven Hedin's Reisen. Maßstab 1:30&nbsp;000&nbsp;000.](ch029.xhtml#b600)
+* [Tarim-Becken, Lop-nor, Nord-Tibet und Zaidam. Maßstab 1:3&nbsp;000&nbsp;000.](ch029.xhtml#b601)
 
 :::: align-center
 ****
