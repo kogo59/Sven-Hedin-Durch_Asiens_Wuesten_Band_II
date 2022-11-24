@@ -150,7 +150,7 @@ ist, stellt ein vielumstrittenes Problem von brennendem Interesse dar.
 
 Ich will hier einige der Hauptpunkte anführen, die er in seinem Aufsatze
 „Bemerkungen zu den Ergebnissen von Oberstlieutenant Prschewalskij's Reise nach
-dem Lop-noor und Altyn-tagh“ in den „Ver— handlungen der Gesellschaft für
+dem Lop-noor und Altyn-tagh“ in den „Verhandlungen der Gesellschaft für
 Erdkunde“, V, S. 121 fg. (Berlin 1878), entwickelte.
 
 *Marco Polo* war der erste, der die Europäer mit der Lop-Wüste bekannt machte,
@@ -160,7 +160,7 @@ Prschewalskij's Reise dachte man sich den See in einem ungeheuren Becken und
 weiter von dessen südlichen als von den nördlichen Grenzgebirgen gelegen.
 *Prschewalskij* fand indessen den *See viel südlicher*, als die Karten und die
 chinesischen Erzählungen angaben, und das innere Asien erhielt durch seine
-zweite Reise ein ganz anderes Aussehen. Das Gebiet von Korla bis zum Altun-tag
+zweite Reise ein ganz anderes Aussehen. Das Gebiet von Korla^[^0705]^ bis zum Altun-tag
 war ganz unbekannt, und man hatte keine Ahnung davon, daß der untere Tarim eine
 so lange Strecke in südöstlicher Richtung flösse. Die Entdeckung des Altun-tag
 war ebenso wichtig für die Kenntniß der physischen Geographie Centralasiens wie
@@ -752,3 +752,5 @@ und in der warmen Jahreszeit kühlt man sich täglich in den kühlen Fluten ab.
 [^0703]: [*Issik-kul*: vergleiche [Yssykköl](https://de.wikipedia.org/wiki/Yssykk%C3%B6l)]{.footnote}
 
 [^0704]: [*Kara-schahr*: vergleiche [Karasahr](https://en.wikipedia.org/wiki/Karasahr)]{.footnote}
+
+[^0705]: [*Korla*: vergleiche [Korla](https://de.wikipedia.org/wiki/Korla_(Bayingolin))]{.footnote}

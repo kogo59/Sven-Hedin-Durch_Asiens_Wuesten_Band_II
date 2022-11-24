@@ -80,7 +80,7 @@ Sowohl die Lop-Männer selbst als auch die Bewohner von Ostturkestan im
 allgemeinen nennen dagegen, soweit sie es überhaupt kennen, das ganze Gebiet von
 dem Zusammenflusse des Ugen-darja mit dem Tarim bis nach *Tscharchlik* einfach
 Lop. Der von Prschewalskij gefundene See zerfällt in zwei Becken: *Kara-buran*
-und *Kara-koschun* (bei Prschewalskij Kara-kurtschin).
+und *Kara-koschun*^[^0800]^ (bei Prschewalskij Kara-kurtschin).
 
 Was beim ersten Anblick des von mir entdeckten Sees wunderbar erscheint, ist,
 daß seine Längenrichtung von Norden nach Süden geht, während der Lop-nor der
@@ -393,7 +393,7 @@ und dem Lop-nor eine Zeit lang absperrt; auch nicht mit Hülfe des
 Kubikmeter Wasser in der Sekunde dahinwälzen.
 
 Bei Tscheggelik-ui fanden wir, daß der ganze vereinigte Fluß im April genau
-ebensoviel Wasser führte, wie der Nebenfluß Kontschedarja allein in Korla gehabt
+ebensoviel Wasser führte, wie der Nebenfluß Kontsche-darja allein in Korla gehabt
 hatte.
 
 Wo bleibt der Rest? Ein großer Theil des Kontsche-darja-Wassers füllt die
@@ -418,3 +418,5 @@ Urtheil aus: „Hier sollen deine stolzen Wogen enden!“
 
 
 ### **Anmerkungen** {.break-before .unnumbered}
+
+[^0800]: [*Kara-koschun*: vergleiche [Karakoshun](https://de.wikipedia.org/wiki/Karakoshun)]{.footnote}
