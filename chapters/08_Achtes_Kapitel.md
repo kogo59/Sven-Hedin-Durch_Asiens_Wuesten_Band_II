@@ -300,7 +300,7 @@ Entdeckungen haben die Prschewalskij's vervollständigt.
 
 Aber der Streit über den Lop-nor ist damit noch nicht zu Ende. Kosloff hat in
 einer Abhandlung („Der Lop-nor, im Anschluß an Sven Hedin's Vortrag in der
-Kaiserlich Russischen Geographischen Gesellschaft am 15. 27. Oktober 1897“ meine
+Kaiserlich Russischen Geographischen Gesellschaft am 15./27. Oktober 1897“) meine
 und Richthofen's Ansichten über die Lage des alten chinesischen Lop-nor zu
 widerlegen gesucht. Schon aus Chotan schickte ich Richthofen einen Bericht über
 die von mir gemachten Entdeckungen. Man findet ihn in der „Zeitschrift der

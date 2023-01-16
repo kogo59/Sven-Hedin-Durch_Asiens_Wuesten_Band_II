@@ -1,4 +1,4 @@
-# Sechsundzwanzigstes Kapitel.<br />Nach Peking und heimwärts!. {#sechszwanzig .unnumbered }
+# Sechsundzwanzigstes Kapitel.<br />Nach Peking und heimwärts! {#sechszwanzig .unnumbered }
 
 ::: justified
 

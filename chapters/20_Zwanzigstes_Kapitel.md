@@ -255,7 +255,7 @@ machen, und man kann daher verstehen, warum sie von Jike-tsohan-gol bis Lassa
 einen Weg von zwei Monaten und nach Si-ning-fu 43 Tagemärsche rechnen.
 
 Die Nacht war kalt gewesen, und das Temperaturminimum fiel auf
-—16,<small>3</small>; wir hatten hier viel niedrigere Temperaturen als in Tibet.
+—16,<small>3</small>°; wir hatten hier viel niedrigere Temperaturen als in Tibet.
 Der Tag war klar und herrlich, und im Süden zeichnete sich jetzt deutlich das
 Gebirge ab, das hier *Charanguein-ula* (die dunkeln Berge) genannt wurde. Der
 Togde-gol floß in einem sehr tiefen, schmalen Bett, über das wir nur mit Mühe

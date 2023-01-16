@@ -92,7 +92,7 @@ Abhängen angehäuft hatte. Die nördlichen dagegen waren den ganzen Tag weiß, 
 auf Lagunen und Bächen blieb das Eis liegen.
 
 Die Temperatur war eine der niedrigsten, die wir während dieser Märsche gehabt
-hatten (—11,<small>7</small>). Die tiefe Temperatur hielt bis Mittag an, und
+hatten (—11,<small>7</small>°). Die tiefe Temperatur hielt bis Mittag an, und
 infolge des hartnäckigen Windes hatte man das Gefühl schneidender Kälte. Die
 Hände sind ihr am meisten ausgesetzt, und ich kann sie nicht schützen, da ich
 ihrer jeden Augenblick zum Kartenzeichnen bedarf.
