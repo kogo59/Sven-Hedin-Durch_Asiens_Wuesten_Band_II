@@ -463,10 +463,5 @@ Jetzt hatten wir nur noch 2000 Kilometer bis Peking.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2000]: [Die Zeichnung zum Einband dieses Werkes ist auf Grund einer vom Verfasser erworbenen tibetanischen Tempelfahne entworfen. Sie stellt die „grüne Gottheit“ dar, die den Hülflosen und Kranken Schutz verleiht.]{.footnote}

@@ -386,9 +386,4 @@ endlosen Einöde.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 

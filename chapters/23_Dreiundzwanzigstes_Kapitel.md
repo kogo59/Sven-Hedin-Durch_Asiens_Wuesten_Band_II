@@ -482,11 +482,6 @@ Hirnschalen zusammengesetzt war.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2300]: [*Mrs. Rijnhart*: vergleiche [Susanna Carson Rijnhart](https://en.wikipedia.org/wiki/Susanna_Carson_Rijnhart)]{.footnote}
 

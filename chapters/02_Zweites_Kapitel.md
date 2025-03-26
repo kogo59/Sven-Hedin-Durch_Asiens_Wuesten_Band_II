@@ -253,12 +253,6 @@ die Wüste gingen die neun Tage, die wir uns in Chotan aufhielten, schnell dahin
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [Ein dichtes, in dünnen Platten durchscheinendes Mineral von meist lauchgrüner, zuweilen auch grünlich-weißer Farbe, das in der Hauptsache aus Kieselsäure, Magnesia, Kalk und wenig Eisenoxydul besteht.]{.footnote}
 

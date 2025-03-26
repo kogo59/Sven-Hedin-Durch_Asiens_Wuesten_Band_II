@@ -536,12 +536,6 @@ sich hat.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [*Jarkent*: vergleiche [Scharkent](https://de.wikipedia.org/wiki/Scharkent)]{.footnote}
 

@@ -486,10 +486,5 @@ stiften.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [*Kven-lun*: vergleiche [Kunlun](https://de.wikipedia.org/wiki/Kunlun)]{.footnote}

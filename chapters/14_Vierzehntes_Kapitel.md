@@ -483,11 +483,6 @@ dieses darum und fressen voll Gier.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1400]: [*Arka-tag*: vergleiche [Prschewalski-Gebirge](https://de.wikipedia.org/wiki/Prschewalski-Gebirge)]{.footnote}
 

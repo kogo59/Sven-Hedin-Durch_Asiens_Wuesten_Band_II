@@ -555,12 +555,6 @@ hier verdrängt hatte?
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Grünwedel*: vergleiche [Albert Grünwedel](https://de.wikipedia.org/wiki/Albert_Gr%C3%BCnwedel)]{.footnote}
 

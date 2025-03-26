@@ -456,11 +456,6 @@ wegen, die sich nachts unsern Zelten näherten.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2200]: [*Koko-nor*: vergleiche [Qinghai-See](https://de.wikipedia.org/wiki/Qinghai-See)]{.footnote}
 

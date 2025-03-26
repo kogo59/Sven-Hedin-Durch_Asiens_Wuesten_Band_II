@@ -390,9 +390,4 @@ Hause der Missionare.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 

@@ -595,9 +595,3 @@ Lagerplatzes Nr. XXVII zurück.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}

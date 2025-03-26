@@ -227,10 +227,4 @@ Chotan verließ.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 

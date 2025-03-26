@@ -389,9 +389,6 @@ nachdem ich drei Jahre und sieben Monate lang durch Asiens Wüsten gewandert war
 ::::
 
 
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^2600]: [*Ordos*: vergleiche [Ordos-Plateau](https://de.wikipedia.org/wiki/Ordos-Plateau)]{.footnote}
 
 [^2601]: [*Kalgan*: vergleiche [Zhangjiakou](https://de.wikipedia.org/wiki/Zhangjiakou)]{.footnote}

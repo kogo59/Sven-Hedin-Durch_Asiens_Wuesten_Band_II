@@ -587,11 +587,6 @@ heute nach den ewigen Jagdgründen gegangen.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1800]: [*König Oskar-Berg*: vergleiche [Kangzhagri](https://www.summitpost.org/kangzhagri/153302)]{.footnote}
 

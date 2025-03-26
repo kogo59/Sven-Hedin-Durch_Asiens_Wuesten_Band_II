@@ -412,11 +412,5 @@ Urtheil aus: „Hier sollen deine stolzen Wogen enden!“
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0800]: [*Kara-koschun*: vergleiche [Karakoshun](https://de.wikipedia.org/wiki/Karakoshun)]{.footnote}

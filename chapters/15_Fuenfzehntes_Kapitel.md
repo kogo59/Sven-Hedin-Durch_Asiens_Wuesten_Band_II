@@ -479,9 +479,4 @@ Ruh an der Umgestaltung der Erde arbeiten müsse.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 

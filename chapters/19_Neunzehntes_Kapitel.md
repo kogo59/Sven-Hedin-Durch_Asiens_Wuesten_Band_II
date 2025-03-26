@@ -507,8 +507,3 @@ noch drei Kamele, drei Pferde und ein Esel von der 56 Thiere starken Karawane
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}

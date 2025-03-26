@@ -736,12 +736,6 @@ und in der warmen Jahreszeit kühlt man sich täglich in den kühlen Fluten ab.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0700]: [Siehe S. 149, erstes Kärtchen.]{.footnote}
 

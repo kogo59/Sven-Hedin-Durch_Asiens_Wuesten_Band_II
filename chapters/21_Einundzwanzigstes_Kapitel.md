@@ -450,8 +450,3 @@ während der Nacht von zwei berittenen und bewaffneten Männern bewacht wurden.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}

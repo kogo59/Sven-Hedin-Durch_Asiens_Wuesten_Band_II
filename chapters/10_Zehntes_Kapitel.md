@@ -320,11 +320,5 @@ unbeschreiblich wohlthuenden Gefühl, uns jetzt einige Zeit ausruhen zu dürfen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1000]: [*Paul Splingaert*: vergleiche [Paul Splingaerd](https://en.wikipedia.org/wiki/Paul_Splingaerd)]{.footnote}

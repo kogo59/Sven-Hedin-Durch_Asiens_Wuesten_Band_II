@@ -492,12 +492,6 @@ Eise bedeckten Kerija-darja.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [*Prschewalskij*: vergleiche [Nikolai Michailowitsch Prschewalski](https://de.wikipedia.org/wiki/Nikolai_Michailowitsch_Prschewalski)]{.footnote}
 

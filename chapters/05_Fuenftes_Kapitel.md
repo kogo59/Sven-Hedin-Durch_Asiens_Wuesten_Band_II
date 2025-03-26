@@ -415,9 +415,3 @@ noch einmal sollten wir gegen ihn zu Felde ziehen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}

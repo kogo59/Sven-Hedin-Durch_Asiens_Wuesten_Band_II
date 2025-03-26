@@ -484,11 +484,6 @@ legen.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1700]: [*Chulan*: vergleiche [Kulan](https://de.wikipedia.org/wiki/Asiatischer_Esel)]{.footnote}
 

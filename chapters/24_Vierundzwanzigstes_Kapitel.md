@@ -428,11 +428,6 @@ und waren muthig und unbekümmert um ihre Sicherheit.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2400]: [*Si-ning-fu*: vergleiche [Xining](https://de.wikipedia.org/wiki/Xining)]{.footnote}
 

@@ -506,9 +506,3 @@ emporschnellender Fisch unterbrachen die tiefe Stille.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
