@@ -1,6 +1,6 @@
 # Durch Asiens Wüsten Band II
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/196797674-b9e5221d-3391-473f-921e-2ef3e16b778c.jpg">
+<img align="right" width="200"  src="https://user-images.githubusercontent.com/13177792/196797674-b9e5221d-3391-473f-921e-2ef3e16b778c.jpg">
 
 This is a git repository of the source files for the books "Durch Asiens Wüsten von Sven Hedin. Zweiter Band."
 
