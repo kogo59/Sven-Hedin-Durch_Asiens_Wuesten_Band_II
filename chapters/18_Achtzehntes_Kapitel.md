@@ -54,7 +54,7 @@ waren jetzt anderthalb Monate verstrichen, seit wir bewohnte Gegenden verlassen
 hatten, und alle sehnten wir uns danach, wieder Menschen zu treffen, welcher Art
 diese auch sein mochten.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center  }
 ![Am Lagerfeuer in Tibet.](Durch_Asiens_Wuesten_II_295.jpg "Am Lagerfeuer in Tibet."){#b295}
 ::::
 
@@ -116,7 +116,7 @@ mehr oder weniger entwickeltes Delta mit langauslaufenden, schmalen, niedrigen
 Schlammbänken. Diese waren stets nach Osten oder Südosten gerichtet, welcher
 Umstand von dem Drucke des westlichen Windes herrühren muß.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center  }
 ![Aussicht vom Lager Nr. XXV auf See Nr. 18.](Durch_Asiens_Wuesten_II_298.jpg "Aussicht vom Lager Nr. XXV auf See Nr. 18."){#b298}
 ::::
 
@@ -187,7 +187,7 @@ eine Linie mit dem östlichen Horizont bildete. Endlich erreichten wir den See
 und ritten an seinem Südufer entlang, wo wir zwischen einigen Hügeln halt
 machten (28 Kilometer, 4808 Meter).
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Schneesturm in Tibet.](Durch_Asiens_Wuesten_II_300.jpg "Schneesturm in Tibet."){#b300}
 ::::
 
@@ -252,7 +252,7 @@ waren auch nicht mehr in leistungsfähiger Verfassung. Sie durften mit den vier
 letzten Eseln gehen, von denen bloß noch einer die Kraft hatte, eine
 unbedeutende Last zu tragen.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Der östliche Theil des Arka-tag, von Südosten gesehen.](Durch_Asiens_Wuesten_II_303.jpg "Der östliche Theil des Arka-tag, von Südosten gesehen."){#b303}
 ::::
 
@@ -271,7 +271,7 @@ drohte, und am Morgen lag der Schnee an einigen Stellen fußhoch. In den
 Gegenden, die wir jetzt durchzogen, sind die Niederschläge viel reichlicher, als
 sie bisher gewesen waren.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Aussicht nach Süden vom Lager Nr. XXIX.](Durch_Asiens_Wuesten_II_305.jpg "Aussicht nach Süden vom Lager Nr. XXIX."){#b305}
 ::::
 
@@ -314,7 +314,7 @@ Süden ab, und der See versperrte uns also den Weg. Wir wußten nicht, ob wir de
 Nord- oder dem Südufer folgen sollten, entschieden uns aber schließlich für das
 erstere, was uns, wie sich später herausstellte, zwei Tagemärsche kostete.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Aussicht nach Nordwesten bei Lager Nr. XXXI.](Durch_Asiens_Wuesten_II_308.jpg "Aussicht nach Nordwesten bei Lager Nr. XXXI."){#b308}
 ::::
 
@@ -329,7 +329,7 @@ Gelände war das schwierigste, das wir seit langem gehabt hatten, und die Hälft
 des Tagemarsches führte über eine Reihe von Rinnen und Schluchten
 durchschnittener Hügel.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Blick über den See Nr. 20 bei Lager Nr. XXXI.](Durch_Asiens_Wuesten_II_309.jpg "Blick über den See Nr. 20 bei Lager Nr. XXXI."){#b309}
 ::::
 
@@ -369,7 +369,7 @@ abmühten. Weiße, mit sprühendem Schaum gekrönte Wellen schlugen gegen die Uf
 Nur die Möven schienen sich des Schauspiels zu freuen; sie schaukelten in
 vollster Ruhe auf den Wogenkämmen.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center }
 ![Heraufziehender Sturm am See Nr. 20.](Durch_Asiens_Wuesten_II_310.jpg "Heraufziehender Sturm am See Nr. 20."){#b310}
 ::::
 
@@ -385,7 +385,7 @@ Thalschlucht. Der Lagerplatz war unglücklich gewählt: mitten in einem jetzt
 trockenen Thale voll Kies und Steine. Aber die senkrechte Felswand gewährte uns
 wenigstens Schutz.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Am See Nr. 20 in Nordtibet.](Durch_Asiens_Wuesten_II_311.jpg "Am See Nr. 20 in Nordtibet."){#b311}
 ::::
 
@@ -438,7 +438,7 @@ erkannte ich mit Hilfe der Karte von Carey und Dalgleish, die ich bei mir hatte,
 sofort den Punkt, nach dem diese vorgedrungen waren, und Parpi Bai, der sie
 begleitet hatte, bestätigte meine Vermuthung.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Unsere letzten Pferde und Esel.](Durch_Asiens_Wuesten_II_313.jpg "Unsere letzten Pferde und Esel."){#b313}
 ::::
 
@@ -482,7 +482,7 @@ hinabströmten. Augenscheinlich waren wir wieder in ein abflußloses Gebiet
 gerathen. Der Paß, über den wir gegangen, war also wahrscheinlich nicht der
 eigentliche, der uns noch erwartete und vielleicht viel schwieriger war.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center }
 ![Angriff des verwundeten Yak auf Islam Bai.](Durch_Asiens_Wuesten_II_314.jpg "Angriff des verwundeten Yak auf Islam Bai."){#b314}
 ::::
 

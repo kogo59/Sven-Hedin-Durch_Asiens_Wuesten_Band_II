@@ -125,7 +125,7 @@ Proklamationen schlagen mit der Aufforderung, die Salarer auszurotten. Die
 Dunganen erkannten, was auf dem Spiele stand, und beschlossen, lieber
 anzugreifen als angegriffen zu werden.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Stadtthor in Si-ning-fu.](Durch_Asiens_Wuesten_II_421.jpg "Stadtthor in Si-ning-fu."){#b421}
 ::::
 
@@ -167,7 +167,7 @@ mit 2000 Mann aus dem japanischen Kriege kam. Ho war ein vortrefflicher Mann,
 der sich bei meinem Besuche noch in Si-ning-fu aufhielt und dessen Bekanntschaft
 ich machte.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center}
 ![Thor in einer Straße von Si-ning-fu.](Durch_Asiens_Wuesten_II_424.jpg "Thor in einer Straße von Si-ning-fu."){#b424}
 ::::
 
@@ -299,7 +299,7 @@ Mündung steckten in Käfigen auf Stangen drei Menschenköpfe. Sie hatten Räube
 gehört, die Reisende überfallen, geplündert und getödtet hatten und die dann
 gefangen und enthauptet worden waren.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center  }
 ![Ping-fan.](Durch_Asiens_Wuesten_II_430.jpg "Ping-fan."){#b430}
 ::::
 
@@ -338,7 +338,7 @@ reiches Trinkgeld bekämen, wenn sie sich ihrer Aufgabe gut entledigten. Es war
 dies um so wichtiger, als ich ohne Dolmetscher war und mir mit dem geringen
 Wortvorrathe, den ich mir hatte zu eigen machen können, durchhelfen mußte.
 
-Sechs Tage suhren wir bergauf bergab über die östlichen Verzweigungen des
+Sechs Tage fuhren wir bergauf bergab über die östlichen Verzweigungen des
 *Nan-schan-Gebirges*^[^2402]^, über holperige Pässe, zugefrorene oder offene Bäche,
 halsbrecherische Brücken und durch enge Hohlwege. Die Karren stießen und
 rasselten, hüpften und schaukelten; es war die reine Tortur, auf diese Weise zu
@@ -422,7 +422,7 @@ machen. Die beiden letztern wohnten in einem andern Hause, ein gutes Stück von
 der eigentlichen Missionsstation, hatten eigenen Haushalt und chinesische Diener
 und waren muthig und unbekümmert um ihre Sicherheit.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Vor dem Thore von Liang-tscheo-fu.](Durch_Asiens_Wuesten_II_434.jpg "Vor dem Thore von Liang-tscheo-fu."){#b434}
 ::::
 

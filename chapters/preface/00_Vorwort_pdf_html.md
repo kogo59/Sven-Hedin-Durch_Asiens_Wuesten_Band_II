@@ -56,7 +56,7 @@ hergestellt.</small>
 * [Vertreibung der Mücken durch Anzünden eines Schilffeldes](#b158) (Separatbild)
 * [Idyllische Bootfahrt auf dem Ilek.](#b160) Von Ljungdahl (Separatbild)
 * [Lop-Mann im Einbaum](#b162) (Separatbild)
-* [Lop-Knabe vom Sadak-kͥöll](#b163)
+* [Lop-Knabe vom Sadak-köll](#b163)
 * [Kuntschekkan Bek's Schwiegertochter mit einem Spinnrocken](#b168)
 * [Kinder aus Kum-tschappgan](#b169)
 * [Lopliks auf dem Tarim bei Kum-tschappgan.](#b170) Von Lindberg (Separatbild)
@@ -202,7 +202,7 @@ Die Aenderung dieser Zahlen beruht darauf, daß soeben erst für den Indien
 zunächst liegenden Theil der Reise eine indische meteorologische Station als
 Stützpunkt für die Berechnung der barometrischen Gradienten hat benutzt werden
 können. In sämmtlichen übrigen Ausgaben meines Buches konnten diese Zahlen
-leider nicht mehr richtiggestellt weden.
+leider nicht mehr richtiggestellt werden.
 
 <br /><p style="text-indent:10%;">Stockholm, 18. Mai 1899.</p>
 <p style="text-indent:60%;">Dr. **Sven Hedin.**</p>

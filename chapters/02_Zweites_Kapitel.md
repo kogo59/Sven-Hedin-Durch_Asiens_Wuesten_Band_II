@@ -23,7 +23,7 @@ Bek es dem damaligen Herrscher Hadschi Padschah. In den Jahren 1878 und 1879
 nahmen die Chinesen Chotan mit ganz Ostturkestan ein und besitzen es noch heute
 in Ruhe und Frieden.
 
-:::: { .wrap-60  }
+:::: { .wrap-60 .caption .align-center }
 ![Mein Freund Liu Darin, Gouverneur von Chotan.](Durch_Asiens_Wuesten_II_024.jpg "Mein Freund Liu Darin, Gouverneur von Chotan."){#b024}
 ::::
 
@@ -44,7 +44,7 @@ Heutzutage ist Chotan eine unbedeutende Stadt, die nicht viel mehr als 5000
 muhammedanische und 500 chinesische Einwohner in ihren Mauern zählen dürfte.
 Ihre wichtigsten Produkte sind außer dem Nephrit^[^0201]^, Seide, weiße Filzdecken,
 Häute, Trauben, Reis und andere Getreidearten, Gemüse, Aepfel, Melonen,
-Bnumwolle u. s. w. Ihre seidenen Teppiche sind von außerordentlicher Schönheit
+Baumwolle u. s. w. Ihre seidenen Teppiche sind von außerordentlicher Schönheit
 und Feinheit. Die Chinesen legen sie bei festlichen Gelegenheiten auf den Tisch;
 in Westturkestan werden sie an die Wand gehängt.
 
@@ -151,7 +151,7 @@ Sand), das 2½ Potai nordöstlich von der Stadt liegt. Um dorthin zu gelangen, m
 man über den Fluß Jurun-kasch und durch die nur 15 Minuten von Iltschi entfernte
 Stadt gleichen Namens reiten.
 
-:::: { .wrap-60  }
+:::: { .wrap-60 .caption .align-center }
 ![Nephritalterthümer aus Chotan (¼ natürlicher Größe).](Durch_Asiens_Wuesten_II_028.jpg "Nephritalterthümer aus Chotan (¼ natürlicher Größe)."){#b028}
 ::::
 
@@ -218,7 +218,7 @@ finden, und wären es auch nur ein paar, deren Klang den Gedanken unwillkürlich
 in längst vergangene Zeiten zurückleitet und die zu wichtigen historischen
 Fragen oder Entdeckungen führen können.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Marktplatz in Chotan.](Durch_Asiens_Wuesten_II_030.jpg "Marktplatz in Chotan."){#b030}
 ::::
 

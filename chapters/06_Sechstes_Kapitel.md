@@ -131,7 +131,7 @@ gerade dieser Zug, den ich in einigen Punkten zu modificiren Gelegenheit hatte,
 Spuren von Atavismus und Beweise dafür bietet, daß das wilde Kamel selbst einmal
 zahm gewesen ist und daß die Generation, die jetzt zwischen den Dünen der Gobi
 frei umherstreift, noch ein unbewußtes, instinktives Entsetzen vor allem
-behalten hat, was an die Sklaverei ihrer Stammvpäter in jener Zeit erinnert, als
+behalten hat, was an die Sklaverei ihrer Stammväter in jener Zeit erinnert, als
 sie noch gebunden an Lagerfeuern standen, als der Tyrann ihnen mit einem
 Pfriemen ein Loch durch den Nasenknorpel bohrte und ihre Höcker und ihre Wolle
 von Lasten gedrückt und abgescheuert wurden.
@@ -162,7 +162,7 @@ Chotan-darja, wo es mehrere Tage lang allein im Walde weidete, und ich habe
 schon erwähnt, daß es, als Ahmed Mergen es fand, halb wild und außerordentlich
 schwer zu fangen war und bei seinem Herannahen erschreckt entfloh.
 
-:::: { .wrap-40 .float-right }
+:::: { .wrap-40 .float-right .align-center .caption }
 ![Mein Reitkamel.](Durch_Asiens_Wuesten_II_101.jpg "Mein Reitkamel."){#b101}
 ::::
 
@@ -183,7 +183,7 @@ Zeit in Heerden an den Fluß, um zu trinken, und benutzt zugleich die
 Gelegenheit, im Kamisch eine ordentliche Mahlzeit zu halten. Nach dem, was mir
 Muhammed Bai versicherte, trinkt es im Winter überhaupt nicht.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .align-center .caption  }
 ![Kopf eines zahmen Kamels](Durch_Asiens_Wuesten_II_102.jpg "Kopf eines zahmen Kamels."){#b102}
 ::::
 
@@ -201,7 +201,7 @@ vorkamen. Unsere Jäger wurden vergnügter als je, machten lange Umwege durch de
 Sand, kamen aber nur mit der Nachricht wieder, daß sie eine Heerde von sieben
 Stück in die Wüste hineinfliehen gesehen hätten.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .align-center .caption  }
 ![Kopf eines wilden Kamels.](Durch_Asiens_Wuesten_II_103.jpg "Kopf eines wilden Kamels."){#b103}
 ::::
 
@@ -230,7 +230,7 @@ tödten dürfe.
 
 Aus den Schafen wurden Archaris, aus den Ziegen Tekkes, Kijiks und Marals, die
 Yaks flüchteten ins Gebirge und verwilderten, die Pferde verwandelten sich in
-Chulane, und die Kamele suchten ihre Zuflucht im Sandmeere. — 
+Chulane, und die Kamele suchten ihre Zuflucht im Sandmeere.
 
 Am 11. Februar durchwanderten wir ein Uebergangsgebiet, wo das Flußbett immer
 undeutlicher wurde und der Wald allmählich aufhörte. Die Tamarisken wurden
@@ -316,7 +316,7 @@ Nacht mehrmals gewechselt wurde und die Feuchtigkeit aufsog, sodaß die Haut seh
 bedeutend an Gewicht verlor.
 
  Die Arbeit am Brunnen lieferte ein weniger erfreuliches Resultat. Kasim grub
-unermüdlich, aber noch bei 3,<small>20</small>Meter Tiefe war der Sand so wenig
+unermüdlich, aber noch bei 3,<small>20</small> Meter Tiefe war der Sand so wenig
 feucht, daß er den Versuch aufgab.
 
 Wir beschlossen deshalb, den ganzen folgenden Tag an diesem Platze zu bleiben,
@@ -329,9 +329,9 @@ hohem Grade peinlich war.
 
 Alles Suchen nach einer mehr versprechenden Brunnenstelle blieb am Morgen des
 12. Februar fruchtlos. Kasim grub daher tapfer an dem angefangenen Brunnen
-weiter, der nun wirklich in 4,<small>16</small>Meter Tiefe Wasser gab. Dieses
+weiter, der nun wirklich in 4,<small>16</small> Meter Tiefe Wasser gab. Dieses
 hatte eine Temperatur von 13,<small>75</small>°, obgleich eine dünne Schicht des
-Bodens gefroren war (bei — 3,<small>6</small>° Lufttemperatur vormittags 9 Uhr).
+Bodens gefroren war (bei —3,<small>6</small>° Lufttemperatur vormittags 9 Uhr).
 Nach dem Boden des Brunnens führte eine provisorische Leiter hinunter, und das
 Wasser, das sehr langsam aus einer Sandschicht zwischen zwei Thonlagern
 hervorsickerte, wurde in einen Eimer geschöpft.
@@ -522,7 +522,7 @@ Mohrrüben in dem Fette von den Kamelhöckern brodelt. Ich selbst liege auf mein
 Teppich auf dem Bauche, die Pfeife im Munde, und schreibe beim Feuerschein im
 Tagebuche.
 
-:::: { .wrap-70  }
+:::: { .wrap-70  .caption .align-center}
 ![Lager unter der Pappel in der Wüste.](Durch_Asiens_Wuesten_II_113.jpg "Lager unter der Pappel in der Wüste."){#b113}
 ::::
 
@@ -543,7 +543,7 @@ beschwerlich, und im Osten und Westen traten wieder Davane auf. Einige Pappeln
 waren stets in Sehweite, standen aber stundenweit voneinander entfernt. Die sie
 verbindenden Linien erstreckten sich von Süden nach Norden, also parallel mit
 dem Chotan-darja und dem Kerija-darja, nicht mit dem Tarim. Kein Anzeichen
-verkündete die Nähe dieses Flussees. ——
+verkündete die Nähe dieses Flussees. —
 
 Bei einigen Pappeln machten wir halt, weil der Boden Wasser versprach; es stand
 1,<small>63</small> Meter tief (5,<small>4</small>°). Der Fund war um so
@@ -569,7 +569,7 @@ feucht, aber nur so unbedeutend, daß wir das Graben aufgaben. Der Wasservorrath
 in den Schläuchen ging am Abend und Morgen drauf. Die Kamele waren ausgehungert
 und durften ihre Packsättel auffressen.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .align-center .caption }
 ![Mittagsrast im glühenden Sand.](Durch_Asiens_Wuesten_II_114.jpg "Mittagsrast im glühenden Sand."){#b114}
 ::::
 

@@ -29,7 +29,7 @@ ihr neunzigjähriger Häuptling geköpft wurde.
 
 Am 13. November wurden weitere 32½ Kilometer von der Entfernung bis Peking
 subtrahiert, bis wohin uns also noch 1500 Kilometer blieben. Die Nacht war kalt
-gewesen, das Minimumthermometer zeigte — 18,<small>4</small>° und es war
+gewesen, das Minimumthermometer zeigte —18,<small>4</small>° und es war
 unangenehm, bei Sonnenaufgang aus dem Bette zu steigen, sich zu waschen und
 anzuziehen. Die Kleidung ist gewöhnlich eiskalt, und die Körperwärme stellt sich
 erst nach dem gut mundenden Kaffee wieder ein.
@@ -277,7 +277,7 @@ zwischen ihnen erhebt sich auf ebensolchen Hügeln wie ein Amphitheater eine
 ganze Welt von Tempelgebäuden, die von ihrem Inhalte den Namen *Kum-bum*, die
 zehntausend Bilder, bekommen haben.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center}
 ![Hauptstraße in Lusar.](Durch_Asiens_Wuesten_II_404.jpg "Hauptstraße in Lusar."){#b404}
 ::::
 
@@ -300,7 +300,7 @@ die Hände aus und segnete ihn. Dann setzte er uns Thee vor und erkundigte sich,
 wie unsere Reise verlaufen. Auf meine Bitte erlaubte er mir, die Tempel zu
 besichtigen, fügte aber hinzu, es sei verboten, irgendetwas abzuzeichnen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center}
 ![Mongolische Lamas.](Durch_Asiens_Wuesten_II_405.jpg "Mongolische Lamas."){#b405}
 ::::
 
@@ -325,7 +325,7 @@ vor, als gehörten die Buchstaben ebenso wesentlich wie die eigentlichen Fasern
 zu den Blättern. . . . . Wir gaben uns alle mögliche Mühe, einen Betrug zu
 entdecken, aber vergebens. Die Sache hatte ihre vollkommene Richtigkeit.“
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Das buddhistische Kloster der Zehntausend Bilder in Kum-bum.](Durch_Asiens_Wuesten_II_406.jpg "Das buddhistische Kloster der Zehntausend Bilder in Kum-bum."){#b406}
 ::::
 
@@ -344,7 +344,7 @@ führten dann die gefalteten Hände an Stirn und Brust, murmelten ihre Gebete un
 fielen wieder hin; sie wiederholten dies immer von neuem, solange ich Geduld
 hatte, ihnen zuzusehen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Kloster Kum-bum.](Durch_Asiens_Wuesten_II_407.jpg "Kloster Kum-bum."){#b407}
 ::::
 
@@ -379,7 +379,7 @@ in Gold auf dunkelm Grunde angebracht. Er war außerordentlich geschmackvoll
 gearbeitet und verkündete, daß Edsin Chan, der Kaiser von China, der Herr des
 Tempels sei.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60 .caption .align-center }
 ![Tempelfahne aus Kum-bum, die Tempel von Lassa und Kum-bum, Tsung Kaba u. s. w. darstellend.](Durch_Asiens_Wuesten_II_410.jpg "Tempelfahne aus Kum-bum, die Tempel von Lassa und Kum-bum, Tsung Kaba u. s. w. darstellend."){#b410}
 ::::
 
@@ -395,7 +395,7 @@ mehr oder weniger großen Göttern, mit vergoldeten Gesichtern und Händen,
 kostbaren Gewändern und brennenden Lampen vor sich. Inmitten der Höfe erhebt
 sich der Tempel *Tsuggtschin-dugun*, um dessen vier Seiten Säulengänge laufen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center}
 ![Silberne Schale (aus Lassa); Gebettrommel aus 2 Hirnschalen (aus Kum—bum); Gebetmühlen aus Stoff, Messing und Silber (aus Kum-bum) (½ natürlicher Größe).](Durch_Asiens_Wuesten_II_411.jpg "Silberne Schale (aus Lassa); Gebettrommel aus 2 Hirnschalen (aus Kum—bum); Gebetmühlen aus Stoff, Messing und Silber (aus Kum-bum) (½ natürlicher Größe)."){#b411}
 ::::
 
@@ -432,7 +432,7 @@ Augenbrauen lassen sie eher als böse Geister, denn als Götter erscheinen. Aber
 man hat dadurch die schreckliche, vernichtende Macht der Götter darstellen
 wollen.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60 .caption .align-center }
 ![Ein Lama.](Durch_Asiens_Wuesten_II_414.jpg "Ein Lama."){#b414}
 ::::
 
@@ -476,7 +476,7 @@ meine Kisten. Ich kaufte auch verschiedene Opfergefäße von Messing, einige
 silberne Gavos und eine Damaruh oder Gebettrommel, die aus zwei menschlichen
 Hirnschalen zusammengesetzt war.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60 .caption .align-center }
 ![Lamaistische Tempelfahne.](Durch_Asiens_Wuesten_II_416.jpg "Lamaistische Tempelfahne."){#b416}
 ::::
 

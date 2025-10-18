@@ -9,7 +9,7 @@ Centralasien ist. Der Boden besteht hier aus gelbem Löß, wie die Geologen die
 vom Winde mitgeführte Stauberde nennen, die sich hier in 8 Meter mächtigen, auf
 hartem, steinigem Konglomeratboden ruhenden Schichten abgelagert hat.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Borasan.](Durch_Asiens_Wuesten_II_034.jpg "Borasan."){#b034}
 ::::
 
@@ -21,7 +21,7 @@ Besonders im Frühling und Sommer, wenn auf den Nordabhängen des Kven-lun der
 Schnee schmilzt, schwillt der Bach zu einem ansehnlichen Flusse an, dessen
 Wassermassen die Lehmterrassen fortschlämmen und unterminiren.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .caption .align-center }
 ![Gemmen aus Borasan.](Durch_Asiens_Wuesten_II_035.jpg "Gemmen aus Borasan."){#b035}
 ::::
 
@@ -86,11 +86,11 @@ Annahme vorhanden, daß die wilden Kamele, die es jetzt nördlich von Chotan in
 der Wüste Gobi gibt, erst in der Zeit nach der Blüteperiode von Borasan
 verwildert sind.
 
-:::: { .wrap-70 .break-before }
-![Kamele und Pferde aus Terracotta. Aus Borasan. (2/7 natürlicher Größe).](Durch_Asiens_Wuesten_II_037.jpg "Kamele und Pferde aus Terracotta. Aus Borasan. (2/7 natürlicher Größe)."){#b037}
+:::: { .wrap-60 .caption .align-center }
+![Kamele und Pferde aus Terracotta. Aus Borasan. (^2^/~7~ natürlicher Größe).](Durch_Asiens_Wuesten_II_037.jpg "Kamele und Pferde aus Terracotta. Aus Borasan. (^2^/~7~ natürlicher Größe)."){#b037}
 ::::
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-60 .caption .align-center }
 ![Terracotta-Köpfe aus Borasan (⅓ natürlicher Größe).](Durch_Asiens_Wuesten_II_038.jpg "Terracotta-Köpfe aus Borasan (⅓ natürlicher Größe)."){#b038}
 ::::
 
@@ -152,8 +152,8 @@ Hystaspes, unter seine 32 Satrapien auch folgende beiden tributpflichtigen
 Völker zählte: die am Indus wohnenden „Hindhu“ und die „Gandhara“, einen
 arischen Stamm südlich vom Kabulflusse. 
 
-:::: { .wrap-70 .break-before }
-![Löwenköpfe aus Terracotta. Aus Borasan. (2/7 natürlicher Größe).](Durch_Asiens_Wuesten_II_042.jpg "Löwenköpfe aus Terracotta. Aus Borasan. (2/7 natürlicher Größe)."){#b042}
+:::: { .wrap-60 .caption .align-center }
+![Löwenköpfe aus Terracotta. Aus Borasan. (^2^/~7~ natürlicher Größe).](Durch_Asiens_Wuesten_II_042.jpg "Löwenköpfe aus Terracotta. Aus Borasan. (^2^/~7~ natürlicher Größe)."){#b042}
 ::::
 
 Im Anfange seiner Regierung hatte der Großkönig mehrere aufrührerische Vasallen
@@ -171,8 +171,8 @@ feststellen und ist überdies von geringerer Wichtigkeit; aber ohne Zweifel stan
 die Gegend in direkter Verbindung mit Gandhara, und überdies führte eine uralte
 Straße von Merw über Karategin nach Chotan, der Hauptstadt der Serer.
 
-:::: { .wrap-80}
-![Terracotta-Krüge aus Borasan. (1/17 natürlicher Größe).](Durch_Asiens_Wuesten_II_043.jpg "Terracotta-Krüge aus Borasan. (1/17 natürlicher Größe)."){#b043}
+:::: { .wrap-80 .caption .align-center}
+![Terracotta-Krüge aus Borasan. (^1^/~17~ natürlicher Größe).](Durch_Asiens_Wuesten_II_043.jpg "Terracotta-Krüge aus Borasan. (^1^/~17~ natürlicher Größe)."){#b043}
 ::::
 
 Wie bei den meisten Affenbildern in meiner Sammlung finden wir auch bei den
@@ -218,7 +218,7 @@ Bronzen stammen wahrscheinlich aus dem 4. oder 5. Jahrhundert unserer
 Zeitrechnung und tragen schon dieselben Kennzeichen wie die modernen
 Buddhabilder.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-60 .caption .align-center }
 ![Greife aus Terracotta. Aus Borasan. (⅓ natürlicher Größe).](Durch_Asiens_Wuesten_II_045.jpg "Greife aus Terracotta. Aus Borasan. (⅓ natürlicher Größe)."){#b045}
 ::::
 
@@ -272,7 +272,7 @@ Stadt, identisch. Die Chinesen nannten es schon im 2. Jahrhundert v. Chr.
 über das alte Chotan, die Abel Rémusat in seiner „Histoire de la ville de
 Khotan“ übersetzt hat.
 
-Man erfährt daraus, daß Kaiser Vu Ti von der Han-Dynastie, der 140 —87 v. Chr.
+Man erfährt daraus, daß Kaiser Vu Ti von der Han-Dynastie, der 140—87 v. Chr.
 regierte, der erste war, der Offiziere nach Chotan schickte, und daß unter
 Kaiser Ming Ti die Stadt im Jahre 73 nach Chr. unterworfen wurde und seitdem in
 einem zeitweilig unterbrochenen, mehr oder minder festen Verhältniß zu China
@@ -282,7 +282,7 @@ Unter den Dynastien Tsin, Liang, Vei, Tscheo, Sui und Thang, d. h. vom Jahre 397
 an und ein paar Jahrhunderte hindurch gibt das angeführte Werk mehrere wichtige
 Aufschlüsse über Chotan und seine Bewohner.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70 .caption .align-center}
 ![Bronze-Buddhas und -Bodhisatvas aus Borasan. (⅔ nat. Größe.).](Durch_Asiens_Wuesten_II_049.jpg "Bronze-Buddhas und -Bodhisatvas aus Borasan. (⅔ nat. Größe.)."){#b049}
 ::::
 
@@ -413,7 +413,7 @@ in Asche. Merkwürdigerweise glaubt man hier zu Lande allgemein, daß die
 Versandung wie ein plötzlicher Schlag gekommen und nur das Werk einiger
 Augenblicke gewesen ist.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-60 .caption .align-center }
 ![Altes Manuskript aus Chotan (½ natürlicher Größe).](Durch_Asiens_Wuesten_II_052.jpg "Altes Manuskript aus Chotan (½ natürlicher Größe)."){#b052}
 ::::
 
@@ -429,7 +429,7 @@ waren, eine Angabe, die Bedeutung erhält, wenn sie mit der Entdeckung der alten
 Manuskripte in Verbindung gebracht wird, die ich gefunden und die nicht indisch,
 also mindestens 1300 Jahre alt sind.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Altes Manuskript aus der Gegend von Chotan.](Durch_Asiens_Wuesten_II_053.jpg "Altes Manuskript aus der Gegend von Chotan."){#b053}
 ::::
 
@@ -490,7 +490,7 @@ die Erinnerung an dieses einst mächtige Volk beibehalten, das nach Klaproth und
 Vivien de Saint-Martin tibetanischer Herkunft war.
 
 Nach dem Jahre 632 hat die „Thai-tsching-jih-tung-tschi“ nichts mehr vom
-Buddha-Kultus zu erzählen. Aber aus den Jahren 1094-1097 weiß sie zu berichten,
+Buddha-Kultus zu erzählen. Aber aus den Jahren 1094—1097 weiß sie zu berichten,
 daß die Bewohner von Chotan, die Araber, die Römer und andere Völker, regelmäßig
 Tribut an den Kaiser schickten. Die Araber hatten damals die Stadt schon lange
 erobert. Im Jahre 712 war es, als einer der arabischen Heerführer, Kuteibe Ihn
@@ -514,7 +514,7 @@ architektonischen Denkmälern mehr gibt. Schon zu Marco Polo's Zeiten scheinen
 sie beseitigt gewesen zu sein. Er passirte die Stadt im Jahre 1274 und erwähnt
 nur Folgendes:
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Christliche Bronzemedaille aus Chotan.](Durch_Asiens_Wuesten_II_056.jpg "Christliche Bronzemedaille aus Chotan."){#b056}
 ::::
 
@@ -540,8 +540,8 @@ und von den Worten S. Andrea Avelin^[^0302]^ umgeben ist, auf der andern eine
 Jungfrau, Sa. Irene^[^0303]^, die auch einen Heiligenschein hat und einen Palmenzweig in
 der Hand hält.
 
-:::: { .wrap-70 }
-![Münze und Engel aus Gold und Kupferkreuz aus Chotan (16/17 nat. Größe).](Durch_Asiens_Wuesten_II_057.jpg "Münze und Engel aus Gold und Kupferkreuz aus Chotan (16/17 nat. Größe)."){#b057}
+:::: { .wrap-70 .caption .align-center }
+![Münze und Engel aus Gold und Kupferkreuz aus Chotan (^16^/~17~ nat. Größe).](Durch_Asiens_Wuesten_II_057.jpg "Münze und Engel aus Gold und Kupferkreuz aus Chotan (^16^/~17~ nat. Größe)."){#b057}
 ::::
 
 Auch andere christliche Embleme habe ich in Chotan gefunden, so einen kleinen

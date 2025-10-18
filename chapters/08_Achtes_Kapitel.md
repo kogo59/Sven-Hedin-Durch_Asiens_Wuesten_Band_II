@@ -25,7 +25,7 @@ chinesischen Karten angegeben ist! Später sollte ich auf dieser interessanten
 Reise Gelegenheit finden, dies mit geologischen und hydrographischen Beweisen zu
 bestätigen.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Ein unbändiges Kamel.](Durch_Asiens_Wuesten_II_140.jpg "Ein unbändiges Kamel."){#b140}
 ::::
 
@@ -90,7 +90,7 @@ Lop-nor-Gebiet fast in einer und derselben Horizontalebene liegt. Die
 hydrographischen Verhältnisse müssen daher gegen die geringsten
 Niveauveränderungen empfindlich sein.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Uebergang über den Kontsche-darja bei seiner Mündung in den Maltak-köll.](Durch_Asiens_Wuesten_II_145.jpg "Uebergang über den Kontsche-darja bei seiner Mündung in den Maltak-köll."){#b145}
 ::::
 
@@ -226,7 +226,7 @@ Fluß bei der geographischen Verbreitung einer Pflanze eins der sichersten
 Transportmittel ist, könnte man mit Recht erwarten, daß der Wald an dem Punkte,
 wo alle diese Flüsse sich zu einem einzigen vereinigen, am üppigsten sein müßte.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![DIE VERÄNDERUNGEN DES LOP-NOR. <small>Nach Dr. Sven Hedin in  „Petermanns Mitteilungen“ 1896.</small>](Durch_Asiens_Wuesten_II_149.jpg "DIE VERÄNDERUNGEN DES LOP-NOR."){#b149}
 ::::
 
@@ -294,7 +294,7 @@ in der Lop-nor-Gegend haben unsere Kenntniß von diesem Gebiete ein gutes Stück
 gefördert. Wir besitzen jetzt eine sehr genaue Karte davon, und unsere
 Entdeckungen haben die Prschewalskij's vervollständigt.
 
-:::: { .wrap-70  }
+:::: { .wrap-70  .align-center .caption }
 ![Kuntschektan Bek.](Durch_Asiens_Wuesten_II_151.jpg "Kuntschektan Bek."){#b151}
 ::::
 
@@ -315,7 +315,7 @@ Beschwerden eines östlicher gelegenen Durchgangs von Norden nach Süden unterzo
 Seine Beobachtungen und scharfsinnigen Folgerungen haben ihn zur Bestätigung des
 in der genannten Abhandlung (Richthofen's Kritik über die Lage des alten
 Lop-nor, s. «Verhandlungen der Gesellschaft für Erdkunde zu Berlin», 1878, S.
-121 — 144) angestellten Ergebnisses geführt.“
+121—144) angestellten Ergebnisses geführt.“
 
 Der Schluß, zu dem Kosloff nach einer Analyse von Prschewalskij's, Richthofen's,
 Pjewzoff's, Bogdanowitsch's, seinen eigenen und meinen Mittheilungen über den
@@ -335,7 +335,7 @@ gegenwärtigen Lop-nor-Bewohner an einem nördlich von dem Lop-nor liegenden See
 wohnten, nämlich an dem See Utschu-kul, von dem auch Pjewzoff Kunde gebracht
 hat.“
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .align-center .caption  }
 ![Fähre über den Kontsche-darija.](Durch_Asiens_Wuesten_II_152.jpg "Fähre über den Kontsche-darija."){#b152}
 ::::
 

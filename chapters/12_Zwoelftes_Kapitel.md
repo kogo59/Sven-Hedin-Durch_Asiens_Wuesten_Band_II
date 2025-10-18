@@ -386,7 +386,7 @@ Reispudding mit Zwiebeln und Schaffleisch, Suppe mit Grünzeug und Mark, frische
 Brot, saurer Milch, Thee mit Zucker und Sahne, Eiern, Gurken, Melonen, Trauben
 und Aprikosen — kurz, ich lebte wie im Schlaraffenlande!
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Bazarstraße in Chotan.](Durch_Asiens_Wuesten_II_206.jpg "Bazarstraße in Chotan."){#b206}
 ::::
 

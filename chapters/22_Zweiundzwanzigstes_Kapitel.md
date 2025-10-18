@@ -29,7 +29,7 @@ abscheuliche Hexe; neben ihr kauerte ein fünfjähriges Mädchen. Sie sowohl wie
 der Mann waren genau wie die Mongolen gekleidet. Die Pelze hatten sie bis auf
 den linken Aermel ausgezogen.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Tanguten-Lager bei Dulan-jung.](Durch_Asiens_Wuesten_II_380.jpg "Tanguten-Lager bei Dulan-jung."){#b380}
 ::::
 
@@ -214,7 +214,7 @@ ein Heuschreckenschwarm verwüstet. In welcher Richtung sie abgezogen waren,
 wußte Loppsen nicht. Aber in Zaidam waren sie nicht gewesen, sondern hatten
 wahrscheinlich die Gebirgsgegenden am obern Buchain-gol aufgesucht.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Nordwestende des Koko-nor.](Durch_Asiens_Wuesten_II_386.jpg "Nordwestende des Koko-nor."){#b386}
 ::::
 
@@ -383,7 +383,7 @@ dorthin gehen. Proviant und Brennholz für drei Tage nähmen sie auf Schlitten
 mit, die aus den beiden, die Unterlage des Packsattels bildenden Holzrippen
 provisorisch zusammengesetzt würden.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60 .caption .align-center }
 ![Tangut aus Bagha-ulan.](Durch_Asiens_Wuesten_II_390.jpg "Tangut aus Bagha-ulan."){#b390}
 ::::
 
@@ -437,7 +437,7 @@ läßt viel zu wünschen übrig. Ebensowenig wie in Zaidam gibt es hier chinesis
 Beamte. In dieser Hinsicht unterscheiden sich diese Provinzen sehr von
 Ostturkestan, wo die Chinesen eine vortreffliche Verwaltung eingerichtet haben.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60 .caption .align-center}
 ![Junger Tangut aus Koko-nor.](Durch_Asiens_Wuesten_II_392.jpg "Junger Tangut aus Koko-nor."){#b392}
 ::::
 

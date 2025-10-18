@@ -61,7 +61,7 @@ Obo, so wie er war, abgezeichnet worden, nahmen wir ihn auseinander und legten
 die Tafeln der südwestlichen Giebelwand der Reihe nach auf die Erde, um sie zu
 kopiren und dann wieder an ihren Platz zu stellen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center}
 ![Obo bei Lager Nr. XXXVII.](Durch_Asiens_Wuesten_II_321.jpg "Obo bei Lager Nr. XXXVII."){#b321}
 ::::
 
@@ -114,7 +114,7 @@ Erdhaufen herum aufgeschichtet waren. Auf den nach Westen gekehrten Tafeln war
 die Schrift theilweise verwischt, wahrscheinlich infolge des vorherrschenden
 Westwindes.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .caption .align-center }
 ![Stein mit tibetanischer Inschrift „om mani padme hum".](Durch_Asiens_Wuesten_II_323.jpg "Stein mit tibetanischer Inschrift."){#b323}
 ::::
 
@@ -221,7 +221,7 @@ mit einem Pelze und Lederhosen; die Füße hatte er sich mit Filzstücken umwund
 und trug auf dem Kopfe eine kleine Filzmütze. Im Djaggataitürkischen war er
 ungefähr ebenso zu Hause wie Parpi Bai im Mongolischen.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .caption .align-center }
 ![Die ersten Mongolen: Dortsche, sein Sohn und sein Schwager.](Durch_Asiens_Wuesten_II_328.jpg "Die ersten Mongolen: Dortsche, sein Sohn und sein Schwager."){#b328}
 ::::
 
@@ -363,7 +363,7 @@ Thalerweiterung *Koko-bure* erreichten, wo sich an den Ufern des Flusses schöne
 Weiden ausbreiteten. Der an diesem Tage zurückgelegte Weg betrug
 27,<small>5</small> Kilometer.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center}
 ![Jike-tsohan-gol oberhalb Harato.](Durch_Asiens_Wuesten_II_333.jpg "Jike-tsohan-gol oberhalb Harato."){#b333}
 ::::
 
@@ -408,7 +408,7 @@ flache Holznäpfe, die im Kreise vertheilt wurden, und streute dann ein paar
 Hände voll Gerstenmehl in die sechs Näpfe. Darauf schnitt er einen mit festem
 Hammeltalg gefüllten Darm in dünne Scheiben, die mit dem Mehl verknetet wurden.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center}
 ![Mein nächtliches Erscheinen im Mongolendorf.](Durch_Asiens_Wuesten_II_334.jpg "Mein nächtliches Erscheinen im Mongolendorf."){#b334}
 ::::
 
@@ -476,7 +476,7 @@ allein nach dem Lager würden finden können. Er zeigte mir, nach welcher Richtu
 ich reiten sollte, und war in der Dunkelheit verschwunden, bevor ich Zeit
 gehabt, dagegen zu protestiren.
 
-:::: { .wrap-60  }
+:::: { .wrap-60 .caption .align-center }
 ![Mongolischer Bettler.](Durch_Asiens_Wuesten_II_338.jpg "Mongolischer Bettler."){#b338}
 ::::
 

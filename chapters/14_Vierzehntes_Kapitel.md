@@ -390,7 +390,7 @@ andern gebeten, die Thiere vorzuschützen. Er hatte heftiges Fieber und schnelle
 Puls, Herzklopfen und Kopfweh, glaubte aber nicht, daß es Bergkrankheit sei,
 denn er hustete Blut und war so kraftlos, daß er kein Glied rühren konnte.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Aussicht nach Südwesten vom Lager Nr. V.](Durch_Asiens_Wuesten_II_239.jpg "Aussicht nach Südwesten vom Lager Nr. V"){#b239}
 ::::
 

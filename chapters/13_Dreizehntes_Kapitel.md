@@ -88,7 +88,7 @@ Es blieb uns daher keine andere Wahl, als uns wieder nach Norden hinunter auf
 den großen Karawanenweg zu begeben, den wir in *Kerija* erreichten. Hier blieben
 wir vier Tage, und erst hier konnten wir den Fluß passiren. 
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Das Flußbett des Tollan-chodscha.](Durch_Asiens_Wuesten_II_213.jpg "Das Flußbett des Tollan-chodscha."){#b213}
 ::::
 
@@ -138,7 +138,7 @@ geben sollte, die von ihren Besitzern gehütet würden. Parpi machte seine Sache
 vorzüglich, und als wir am 28. Juli am Mölldscha rasteten, kam er uns mit 15
 guten Kamelen nebst ihren Eigenthümern entgegen.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70 .align-center .caption   }
 ![Togda Muhammed Bek.](Durch_Asiens_Wuesten_II_214.jpg "Togda Muhammed Bek."){#b214}
 ::::
 
@@ -159,7 +159,7 @@ trockene Schlucht mit steinigem Boden, an deren steilen Wänden die Karawane ein
 schallendes Echo weckt. Die Schlucht führt nach grasbewachsenen, weich
 gerundeten Lößhügeln hinauf.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .align-center .caption  }
 ![Unser Lager bei Dalai-kurgan.](Durch_Asiens_Wuesten_II_215.jpg "Unser Lager bei Dalai-kurgan."){#b215}
 ::::
 
@@ -211,7 +211,7 @@ beschleunigtem Marschtempo wieder einzuholen. Ich ritt, wie gewöhnlich,
 hinterdrein, um einen Ueberblick über das Ganze zu haben, und fühlte mich erst
 beruhigt, als die letzten Thiere hinter dem Passe verschwunden waren.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Am Nordfuße des Kven-lun.](Durch_Asiens_Wuesten_II_217.jpg "Am Nordfuße des Kven-lun."){#b217}
 ::::
 
@@ -377,7 +377,7 @@ sitzen lasse, sobald er ihrer überdrüssig geworden. Islam Bai meinte, es sei e
 böses Omen, daß Parpi Bai der Diener zweier Europäer gewesen, die ermordet
 worden waren.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .align-center .caption  }
 ![Einer unserer Tagliks.](Durch_Asiens_Wuesten_II_223.jpg "Einer unserer Tagliks."){#b223}
 ::::
 
@@ -425,12 +425,12 @@ besucht werden können. Der Mitt-Fluß führte jetzt infolge des kühlen Wetters
 Nebenflüsse und schwillt nach stillen sonnigen Tagen zu einem ansehnlichen
 Strome an.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Das erste Lager in Tibet.](Durch_Asiens_Wuesten_II_224.jpg "Das erste Lager in Tibet."){#b224}
 ::::
 
-Der kalten Nächte ungewohnt, fanden wir die erste Kälte (Minimum —
-2,<small>7</small>°) recht scharf. Aber sobald die Sonne aufgegangen war, wurde
+Der kalten Nächte ungewohnt, fanden wir die erste Kälte (Minimum —2,<small>7</small>°) 
+recht scharf. Aber sobald die Sonne aufgegangen war, wurde
 es rasch wieder warm. Am Morgen waren noch zwei Mann desertirt, und der Aksakal
 erhielt wieder einen Verweis, weil er seine Leute nicht besser in Ordnung hielt.
 Wir hatten indessen noch 13 Tagliks, was genügte, aber diese Leute brauchten wir

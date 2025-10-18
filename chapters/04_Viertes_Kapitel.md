@@ -56,7 +56,7 @@ Landstraße hin offenes Zelt mit einem vorspringenden Sonnendache hatte
 aufschlagen lassen. Es war inwendig auf chinesische Weise mit Stühlen und einem
 Tische möblirt, alles mit rothem Stoff überzogen.
 
-:::: { .wrap-70 }
+:::: { .wrap-70 .align-center .caption }
 ![Altes und neues chinesisches Silber- und Kupfergeld.](Durch_Asiens_Wuesten_II_062.jpg "Altes und neues chinesisches Silber- und Kupfergeld."){#b062}
 ::::
 
@@ -68,7 +68,7 @@ linken Ufer des *Jurun-kasch-Flusses* folgend. Vier Tage lang zogen wir durch
 Punkte, wo die letzten menschlichen Wohnungen gelegen sind. Dort passirten wir
 den Fluß auf seiner starken Eisdecke.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .align-center .caption }
 ![Bazar in Tavek-kel.](Durch_Asiens_Wuesten_II_063.jpg "Bazar in Tavek-kel."){#b063}
 ::::
 
@@ -90,7 +90,7 @@ Dünen auf 5 und 10 Meter Höhe und lagen in einem netzförmigen System von Oste
 nach Westen, von Norden nach Süden, mit den abschüssigen Seiten nach Westen,
 Süden und Südwesten und mit pyramidenförmigen Erhöhungen auf den Schnittpunkten.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .align-center .caption }
 ![Der Jurun-kasch-Fluß (Chotan-darja) bei Islam-abad.](Durch_Asiens_Wuesten_II_064.jpg "Der Jurun-kasch-Fluß (Chotan-darja) bei Islam-abad."){#b064}
 ::::
 
@@ -113,7 +113,7 @@ Merkwürdigerweise fanden wir sowohl hier wie beim Jarkent-darja und Ugen-darja,
 daß das Wasser eines Brunnens um so salzhaltiger wird, je näher man ihn bei
 einem großen Flusse gräbt.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .align-center .caption }
 ![Moscheepavillon in Tavek-kel.](Durch_Asiens_Wuesten_II_065.jpg "Moscheepavillon in Tavek-kel."){#b065}
 ::::
 
@@ -158,7 +158,7 @@ daß die Kamele sich jetzt gerade in der Brunftzeit befanden, während welcher s
 wenig Appetit haben, aber desto mehr zum Beißen geneigt sind. Nach ein paar
 Marschtagen wurden sie jedoch zahm und friedlich.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .align-center .caption }
 ![Wandmalereien aus der ersten verschütteten Stadt.](Durch_Asiens_Wuesten_II_066.jpg "Wandmalereien aus der ersten verschütteten Stadt."){#b066}
 ::::
 
@@ -176,7 +176,7 @@ letzten eines sterbenden Geschlechts, die äußersten Vorposten gegen den
 mörderischen Sand, als wären sie vergessen worden, als der auf den Ufern
 wachsende Wald mit dem Flusse nach Osten wanderte.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .align-center .caption}
 ![Alte Kupferlöffel und eiserne Pfeilspitze aus Tavek-kel.](Durch_Asiens_Wuesten_II_067.jpg "Alte Kupferlöffel und eiserne Pfeilspitze aus Tavek-kel."){#b067}
 ::::
 
@@ -219,7 +219,7 @@ unter hohen Dünen begraben liegt. Nur die Häuser, die auf Erhebungen des
 Untergrundes oder in den Dünenthälern gelegen, lassen ihre Ruinen aus dem Sande
 auftauchen.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .align-center .caption}
 ![Wandmalereien aus der ersten verschütteten Stadt.](Durch_Asiens_Wuesten_II_068.jpg "Wandmalereien aus der ersten verschütteten Stadt."){#b068}
 ::::
 
@@ -237,7 +237,7 @@ dünne Stangen festgebunden und mit einer Schicht mit Häcksel gemischten Lehms
 überstrichen war. Es bildete ein zähes, festes, dauerhaftes Baumaterial. Außen
 und inwendig waren diese sehr dünnen Wände weiß abgeputzt.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .align-center .caption}
 ![Ruinen eines Hauses in der alten Stadt Takla-makan.](Durch_Asiens_Wuesten_II_069.jpg "Ruinen eines Hauses in der alten Stadt Takla-makan."){#b069}
 ::::
 
@@ -284,11 +284,11 @@ auf die Brust gelegt, in bis auf die Füße herabwallende, faltenreiche Mäntel
 gekleidet, die oben so weit ausgeschnitten waren, daß Platz für ein Halsband
 blieb.
 
-:::: { .wrap-70 .break-before}
+:::: { .wrap-70 .align-center .caption .break-before}
 ![Buddhas aus der alten Stadt Takla-makan (⅓ nat. Größe).](Durch_Asiens_Wuesten_II_070.jpg "Buddhas aus der alten Stadt Takla-makan (⅓ nat. Größe)."){#b070}
 ::::
 
-:::: { .wrap-80 .break-before}
+:::: { .wrap-80 .align-center .caption .break-before}
 ![Haus mit bemalten Querwänden in der alten Stadt Takla-makan.](Durch_Asiens_Wuesten_II_071.jpg "Haus mit bemalten Querwänden in der alten Stadt Takla-makan."){#b071}
 ::::
 

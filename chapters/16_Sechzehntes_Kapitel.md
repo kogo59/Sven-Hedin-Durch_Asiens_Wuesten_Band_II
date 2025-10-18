@@ -53,7 +53,7 @@ war es weit bis nach den Gegenden, deren Gewässer in den Stillen Ocean strömen
 Erst sollten wir noch längere Zeit in Gebieten weilen, denen jeglicher Abfluß
 nach dem Weltmeere fehlt.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Der Arka-tag gegen Nordnordwesten, von dem Tuffberge bei Lager Nr. XI aus.](Durch_Asiens_Wuesten_II_262.jpg "Der Arka-tag gegen Nordnordwesten, von dem Tuffberge bei Lager Nr. XI aus."){#b262}
 ::::
 
@@ -117,7 +117,7 @@ Minuten war alles vorüber. Die Sturmbö zog nach Osten weiter, und im Westen
 erschienen keine neuen Wolken. Die Ruhe war wiederhergestellt, und es folgte ein
 herrlicher, sternenklarer Abend.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Südseite des Arka-tag, vom Lager Nr. XI aus.](Durch_Asiens_Wuesten_II_264.jpg "Südseite des Arka-tag, vom Lager Nr. XI aus."){#b264}
 ::::
 
@@ -323,7 +323,7 @@ verschwunden war. Wir fürchteten daher, daß er die Verfolgung so lange
 fortgesetzt, bis er die Spur der Karawane verloren und sich vollständig verirrt
 hatte.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Aussicht nach Südosten vom Lager Nr. XIV.](Durch_Asiens_Wuesten_II_271.jpg "Aussicht nach Südosten vom Lager Nr. XIV."){#b271}
 ::::
 

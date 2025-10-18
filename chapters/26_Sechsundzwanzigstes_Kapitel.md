@@ -115,7 +115,7 @@ Dunganen machten wie wilde Thiere alles Lebende nieder. Nur 2000 Chinesen
 überlebten den Unglückstag, die meisten dadurch, daß sie sich auf die Seite der
 Aufrührer stellten.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Stadtthor in Ning-scha.](Durch_Asiens_Wuesten_II_456.jpg "Stadtthor in Ning-scha."){#b456}
 ::::
 
@@ -192,8 +192,8 @@ nicht angenehm, sich zu waschen, wenn das Wasser einem auf der Haut gefriert,
 falls man sich nicht sehr sputet.
 
 Die größte Kälte trat zu Anfang Februar ein. Das Minimum in der Nacht auf den 2.
-Februar betrug —30°, in der Nacht auf den dritten — 33°, während im Zelte die
-Temperatur gleichzeitig auf — 26,<small>8</small>° sank.
+Februar betrug —30°, in der Nacht auf den dritten —33°, während im Zelte die
+Temperatur gleichzeitig auf —26,<small>8</small>° sank.
 
 Am 6. Februar erreichten wir *Ho-dschi-to*, das erste Dorf am Nordrande der
 Wüste. Den Tag darauf gingen wir wieder über den hier 385 Meter breiten
@@ -220,7 +220,7 @@ die alle dem genannten amerikanischen Missionsverbande angehörten.
 *Kvei-hva-tschung* ist das Centrum dieser Mission; hier lernen die
 Neuangekommenen chinesisch, ehe sie nach ihren Stationen geschickt werden.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .caption .align-center }
 ![Mongolische Mädchen.](Durch_Asiens_Wuesten_II_461.jpg "Mongolische Mädchen."){#b461}
 ::::
 
@@ -264,7 +264,7 @@ Kleidung war auf der langen Reise sehr fadenscheinig geworden, und meine ganze
 Erscheinung war derart, daß ich einige Tage incognito im Hotel bleiben zu müssen
 glaubte, bis ich wieder einen präsentabeln Anzug hätte.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Die innere Große Mauer zwischen Kalgan und Peking.](Durch_Asiens_Wuesten_II_464.jpg "Die innere Große Mauer zwischen Kalgan und Peking."){#b464}
 ::::
 
@@ -327,7 +327,7 @@ mongolischen Pferden mit Reitern auf dem Rücken gezogenen chinesischen Karren
 fuhr ich mit sausender Geschwindigkeit durch die endlosen Ebenen, Wüsten und
 Steppen der Gobi, über *Sair-ussu* und *Urga*^[^2602]^ nach *Kiachta*^[^2603]^.
 
-:::: { .wrap-60  .break-before }
+:::: { .wrap-60  .caption .align-center }
 ![Mongolische Gürtelgehänge für Feuerstahl, für Dolche und elfenbeinerne Eßstäbchen in silbernen Scheiden. Aus Kalgan.](Durch_Asiens_Wuesten_II_468.jpg "Mongolische Gürtelgehänge für Feuerstahl, für Dolche und elfenbeinerne Eßstäbchen in silbernen Scheiden. Aus Kalgan."){#b468}
 ::::
 
@@ -345,7 +345,7 @@ geworden sind, treten vier andere an ihre Stelle. Das Umspannen geht so leicht
 und schnell vor sich, daß der Reisende, der in dem Karren eingepackt sitzt, es
 nicht merkt, wenn er nicht aus dem vordern Wagenfenster schaut.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Der Maidari-Tempel in Urga.](Durch_Asiens_Wuesten_II_469.jpg "Der Maidari-Tempel in Urga."){#b469}
 ::::
 
@@ -380,11 +380,11 @@ nachdem ich drei Jahre und sieben Monate lang durch Asiens Wüsten gewandert war
 ****
 ::::
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Uebersichtskarte zu Sven Hedin's Reisen. Maßstab 1:30&nbsp;000&nbsp;000.](Durch_Asiens_Wuesten_II_600.jpg "Uebersichtskarte zu Sven Hedin's Reisen. Maßstab 1:30&nbsp;000&nbsp;000."){#b600}
 ::::
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Tarim-Becken, Lop-nor, Nord-Tibet und Zaidam. Maßstab 1:3&nbsp;000&nbsp;000.](Durch_Asiens_Wuesten_II_601.jpg "Tarim-Becken, Lop-nor, Nord-Tibet und Zaidam. Maßstab 1:3&nbsp;000&nbsp;000."){#b601}
 ::::
 

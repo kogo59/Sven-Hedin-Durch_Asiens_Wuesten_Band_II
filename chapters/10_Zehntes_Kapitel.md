@@ -281,7 +281,7 @@ Landmanne eine antike Vase aus Kupfer abkauften, gelangten wir an den
 *Tschertschen-darja* und ritten durch seine sehr gelichteten Wälder nach der
 Stadt gleichen Namens.
 
-:::: { .wrap-40 .float-left }
+:::: { .wrap-40 .float-left .align-center .caption }
 ![Antike Kupfervase aus Vasch-schari.](Durch_Asiens_Wuesten_II_184.jpg "Antike Kupfervase aus Vasch-schari."){#b184}
 ::::
 

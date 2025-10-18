@@ -24,7 +24,7 @@ gegangen. Parpi Bai war ein Meister in diesem Handwerk; das Material wurde von
 den Mongolen herbeigeschafft, und der Platz vor dem Zelte der Leute verwandelte
 sich in eine Sattlerwerkstatt.
 
-:::: { .wrap50  }
+:::: { .wrap-40 .caption .align-center }
 ![Tibetanische Amuletthülsen aus Silber. Aus Lassa. Nat. Größe.](Durch_Asiens_Wuesten_II_340.jpg "Tibetanische Amuletthülsen aus Silber. Aus Lassa. Nat. Größe."){#b340}
 ::::
 
@@ -41,7 +41,7 @@ Hierbei hatten sie mehr Angst voreinander als vor mir; sie kamen nur abends nach
 Dunkelwerden in mein Zelt und baten mich, die Götterbilder sofort in meinen
 Kisten ganz unten zu verstecken.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center}
 ![Amulettfutterale aus Silber und Messing (die meisten aus Lassa , ½ nat. Größe).](Durch_Asiens_Wuesten_II_341.jpg "Amulettfutterale aus Silber und Messing (die meisten aus Lassa , ½ nat. Größe)."){#b341}
 ::::
 
@@ -77,7 +77,7 @@ selbst betheuerten, daß die Sittlichkeit unter ihnen höher stehe als bei den
 Muhammedanern. Schon der Umstand, daß den letztern die Vielweiberei gestattet
 ist, ist nach Ansicht der Mongolen ein Beweis ihrer geringen Moral.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .caption .align-center }
 ![Burchane aus Lassa (⅗ natürlicher Größe).](Durch_Asiens_Wuesten_II_344.jpg "Burchane aus Lassa (⅗ natürlicher Größe)."){#b344}
 ::::
 
@@ -93,7 +93,7 @@ aufeinandergestellten Kästen mit einem Brett darauf. Auf diesem stand eine Reih
 von Messingschalen und Tassen, die mit Wasser, Mehl, Tsamba und andern
 Opfergaben für die Burchane gefüllt waren.
 
-:::: { .wrap-70  }
+:::: { .wrap-70  .caption .align-center}
 ![Mongolischer Lama.](Durch_Asiens_Wuesten_II_345.jpg "Mongolischer Lama."){#b345}
 ::::
 
@@ -127,15 +127,15 @@ lauschig in dem trockenen Flußbette selbst gelegen, und Wasser gab ihnen ein
 1,<small>21</small> Meter tiefer Brunnen, an dem die Thiere abends getränkt
 wurden.
 
-:::: { .wrap-50  .break-before }
+:::: { .wrap-50  .break-before .caption .align-center}
 ![Tibetanischer Burchan aus Thon.](Durch_Asiens_Wuesten_II_346a.jpg "Tibetanischer Burchan aus Thon."){#b346a}
 ::::
 
-:::: { .wrap-50 .float-left }
+:::: { .wrap-50 .float-left .caption .align-center }
 ![Inschrift auf der Rückseite des obigen Burchan.](Durch_Asiens_Wuesten_II_346b.jpg "Inschrift auf der Rückseite des obigen Burchan."){#b346b}
 ::::
 
-:::: { .wrap-50 .float-right }
+:::: { .wrap-50 .float-right .caption .align-center}
 ![Tibetanischer Burchan aus Thon.](Durch_Asiens_Wuesten_II_346c.jpg "Tibetanischer Burchan aus Thon."){#b346c}
 ::::
 
@@ -210,7 +210,7 @@ erfüllte und uns die nahe gelegenen Berge verdeckte. Ueber holperige, mit Salz
 bedeckte Einöde, durch üppige, dichte Schilfsteppen und über trockene Rinnen
 ging der Weg nach Ostsüdosten.
 
-:::: { .wrap-70 }
+:::: { .wrap-70 .caption .align-center}
 ![Mongolisches Mädchen.](Durch_Asiens_Wuesten_II_349.jpg "Mongolisches Mädchen."){#b349}
 ::::
 
@@ -299,7 +299,7 @@ war. In Zaidam gibt es wenig Gerste und überhaupt wenig Getreide. Weizen wird
 aus Si-ning-fu bezogen, Gerste kann an einigen Stellen gebaut werden, doch nicht
 in genügender Menge.
 
-:::: { .wrap-70 }
+:::: { .wrap-70 .caption .align-center}
 ![Lamaistische Tempelfahne aus Lassa.](Durch_Asiens_Wuesten_II_352.jpg "Lamaistische Tempelfahne aus Lassa."){#b352}
 ::::
 
@@ -316,7 +316,7 @@ der Gegend des *Kurlük-nor* und weiter ostwärts darauf gefaßt sein müßten, 
 genug Lebensmittel zu finden, da die Dunganen dort während des letzten Aufstands
 die Heerden der Eingeborenen geraubt hätten.
 
-:::: { .wrap-70 }
+:::: { .wrap-70 .caption .align-center }
 ![Unser Führer Loppsen.](Durch_Asiens_Wuesten_II_353.jpg "Unser Führer Loppsen."){#b353}
 ::::
 
@@ -337,7 +337,7 @@ freundlich aufgenommen wurden. Die hier wohnenden Mongolen gehören zu dem groß
 *Tadschenur*-Stamme. Es gelang mir, an einigen von ihnen Schädelmessungen
 auszuführen.
 
-:::: { .wrap-50 .float-left }
+:::: { .wrap-50 .float-left .caption .align-center}
 ![Mongole aus Ova-tögöruck.](Durch_Asiens_Wuesten_II_354.jpg "Mongole aus Ova-tögöruck."){#b354}
 ::::
 
@@ -415,7 +415,7 @@ paar Centimeter gefallen, und das Schilffeld von den Pferden bis auf die Wurzeln
 abgegrast. Loppsen und einige andere mußten deshalb die Thiere wieder nach den
 Weiden von Ova-tögöruck treiben. Unser Lagerplatz lag 2706 Meter über dem Meere.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Mongolenlager in Zaidam.](Durch_Asiens_Wuesten_II_356.jpg "Mongolenlager in Zaidam."){#b356}
 ::::
 

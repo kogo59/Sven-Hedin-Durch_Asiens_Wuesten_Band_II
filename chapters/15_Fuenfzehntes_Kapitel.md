@@ -2,7 +2,7 @@
 
 ::: justified
 
-| 15. August. Zu unserm großen Glück ging es Islam Bai heute so gut, daß wir zur
+&nbsp;&nbsp;15. August. Zu unserm großen Glück ging es Islam Bai heute so gut, daß wir zur
 gewöhnlichen Zeit aufbrechen konnten, nachdem eins der kranken Pferde
 verendet war. Es war das erste, das uns fiel, und sollte leider nur zu viel
 Nachfolger haben.
@@ -67,7 +67,7 @@ gelagert, und zogen über hügeliges Terrain weiter, an einem kleinen See von 25
 Meter Durchmesser mit klarem, süßem Wasser vorbei, auf dem sich ein Dutzend
 vorsichtiger Gänse auf ihrer langen Winterreise nach Indien ausruhten.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption   }
 ![Aussicht nach Nordwesten vom Lager Nr. VI.](Durch_Asiens_Wuesten_II_245.jpg "Aussicht nach Nordwesten vom Lager Nr. VI."){#b245}
 ::::
 
@@ -191,7 +191,7 @@ Littledale im vorigen Jahre gelagert hatte. Dieser hatte die Gegend von Norden
 her erreicht und war einige Tage hier geblieben, um im Westen einen Paß über den
 Arka-tag zu suchen.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Durchbruchsthal bei Lager Nr. VIII, wo Littledale gelagert.](Durch_Asiens_Wuesten_II_249.jpg "Durchbruchsthal bei Lager Nr. VIII, wo Littledale gelagert."){#b249}
 ::::
 
@@ -370,7 +370,7 @@ dazu bei, die Wärme im Zelte zu erhalten und den Zug zu mildern. Erst am 22.
 August vormittags hörte das Schneegestöber auf, und wir konnten wieder anfangen
 uns zu rühren.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Verhör meiner meuterischen Leute.](Durch_Asiens_Wuesten_II_254.jpg "Verhör meiner meuterischen Leute."){#b254}
 ::::
 

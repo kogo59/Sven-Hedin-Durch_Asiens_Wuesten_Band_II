@@ -55,7 +55,7 @@ bunten Glasscheiben in hohen Bogenfenstern und Altären mit Marienbildern und
 brennenden Wachskerzen. Es machte einen eigenthümlichen ergreifenden Eindruck,
 einige zehn chinesische Landleute in der Kirche kniend beten zu sehen.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center }
 ![Aeußeres eines Tempels bei Liang-tscheo-fu.](Durch_Asiens_Wuesten_II_438.jpg "Aeußeres eines Tempels bei Liang-tscheo-fu."){#b438}
 ::::
 
@@ -71,7 +71,7 @@ Bilder einer großen Anzahl katholischer Missionare, unter denen ich meinen alte
 Freund Pater Hendricks erkannte. Auch in der Stadt haben die belgischen Brüder
 eine Missionsstation, wo sie an kirchlichen Feiertagen die Messe lesen.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Der Kriegsgott in einem Tempel bei Liang-tscheo-fu.](Durch_Asiens_Wuesten_II_439.jpg "Der Kriegsgott in einem Tempel bei Liang-tscheo-fu."){#b439}
 ::::
 
@@ -106,7 +106,7 @@ unsertwegen konnte es nicht mehr geöffnet werden. Nach mehrstündigem Suchen in
 engen, dunkeln Gassen erhielten wir endlich in einer Herberge ein schlechtes
 Zimmer, denn ich wollte den Missionaren die Sonntagsruhe natürlich nicht stören.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center }
 ![Hof eines Tempels bei Liang-tscheo-su.](Durch_Asiens_Wuesten_II_442.jpg "Hof eines Tempels bei Liang-tscheo-su."){#b442}
 ::::
 
@@ -149,8 +149,8 @@ nach der Stadt brachten.
 
 Schon jetzt lagen rechts niedrige Sanddünen: es war der Rand der Wüste.
 
-Die Sonne ging in Nebel unter, und die Nachtkälte war schneidend (Minimum —
-18,<small>8</small>°). Endlich erhoben sich vor uns die Mauern von *Tsching-fan*;
+Die Sonne ging in Nebel unter, und die Nachtkälte war schneidend (Minimum —18,<small>8</small>°). 
+Endlich erhoben sich vor uns die Mauern von *Tsching-fan*;
 aber die Thore waren geschlossen, und wir mußten mit einer Herberge außerhalb
 der Stadt vorliebnehmen.
 
@@ -165,7 +165,7 @@ chinesischen Behörden bereitet worden seien, und daß ich lieber in meinem Zelt
 in der Wüste rasten, als bei dem Ungeziefer in den chinesischen Gasthäusern
 einquartiert sein wollte.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Inneres eines chinesischen Tempels in Liang-tscheo-fu.](Durch_Asiens_Wuesten_II_444.jpg "Inneres eines chinesischen Tempels in Liang-tscheo-fu."){#b444}
 ::::
 
@@ -232,7 +232,7 @@ Karten angegeben ist, war nicht zu entdecken. Wir erfuhren jedoch, daß der Flu�
 im Sommer während der Hochwasserperiode da, wo er endet, einen schnell wieder
 verschwindenden See bildet.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70 .caption .align-center}
 ![Mongolin.](Durch_Asiens_Wuesten_II_447.jpg "Mongolin."){#b447}
 ::::
 

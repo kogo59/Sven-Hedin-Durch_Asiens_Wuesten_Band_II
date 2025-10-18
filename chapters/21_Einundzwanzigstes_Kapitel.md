@@ -112,7 +112,7 @@ und zog eine Menge langer, schmaler Papierstreifen mit tibetanischer Schrift
 heraus. Hier seien, sagte er, auch Burchane eingemauert, aber diese wage er
 nicht anzurühren.
 
-:::: { .wrap-70 }
+:::: { .wrap-70 .caption .align-center }
 ![Aus dem Obo von Hlakimto.](Durch_Asiens_Wuesten_II_364.jpg "Aus dem Obo von Hlakimto."){#b364}
 ::::
 
@@ -155,7 +155,7 @@ wir das erste von den neuen Pferden verloren.
 Am 30. Oktober ritten wir über *Barun-kövve*, das südliche Ufer des
 Alichani-gol, und hatten linker Hand *Tsun-ula*, die nördlichen Berge. So
 einfach sind oft die geographischen Namen im Lande. Nur an wenigen Stellen war
-der Fluß zu sehen. Die letzte Nacht war kalt gewesen (— 22,<small>6</small>°);
+der Fluß zu sehen. Die letzte Nacht war kalt gewesen (—22,<small>6</small>°);
 daher schwammen eine Menge Eisschollen auf dem Strome, die klingend
 gegeneinander und an die Ufer schlugen. Der Weg, der nach *Sorgotsu* führte, bis
 wohin 29 Kilometer waren, ging durch eine Sandwüste mit kleinen Dünen, die mit
@@ -181,7 +181,7 @@ die Pferde wurden in der Dunkelheit nach dem Lager zurückgeführt und sollten
 erst bei Tagesanbruch wieder freigelassen werden. Unsere Hunde waren übrigens
 vorzügliche Nachtwächter und warnten uns bei dem geringsten verdächtigen Laute.
 
-:::: { .wrap-40 .float-right  }
+:::: { .wrap-40 .float-right  .caption .align-center}
 ![Mongolischer Junge aus Süd-Zaidam.](Durch_Asiens_Wuesten_II_367.jpg "Mongolischer Junge aus Süd-Zaidam."){#b367}
 ::::
 
@@ -294,7 +294,7 @@ anzugreifen, bevor man sich nicht über unsere Anzahl und Bewaffnung
 vergewissert. Unterdessen warteten wir auf dem Hügel, und ich fuhr fort, meine
 Pfeife in aller Gemüthsruhe zu rauchen, was meine Leute sichtlich beruhigte.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Angriff der Räuber.](Durch_Asiens_Wuesten_II_370.jpg "Angriff der Räuber."){#b370}
 ::::
 
@@ -363,7 +363,7 @@ durften gleichzeitig schlafen. Ungefähr alle fünf Minuten rief Parpi:
 „Chabärdar?“ (Ist der Posten wach?), während sich Loppsen stumm die Hände über
 der Glut wärmte.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center}
 ![Tibetanische Räuber beschleichen unser Lager.](Durch_Asiens_Wuesten_II_372.jpg "Tibetanische Räuber beschleichen unser Lager."){#b372}
 ::::
 
@@ -431,7 +431,7 @@ gegen Abend wagten sich zwei andere, mit langen Säbeln bewaffnet, zu meinem
 Zelte. Uebrigens waren sie ganz wie die Mongolen gekleidet, von deren Sprache
 sie jedoch kein Wort verstanden.
 
-:::: { .wrap-70 }
+:::: { .wrap-70 .caption .align-center}
 ![Tangutenjunge.](Durch_Asiens_Wuesten_II_376.jpg "Tangutenjunge."){#b376}
 ::::
 

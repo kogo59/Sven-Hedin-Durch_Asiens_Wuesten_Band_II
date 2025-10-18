@@ -310,8 +310,7 @@ producirt. Die Hauptprodukte sind jedoch Schafe, Häute und Wolle, die nach Ak-s
 ausgeführt werden. Im Bazar haben zehn chinesische und fünf westturkestaner
 Kaufleute Läden, und auch von Kaschgar, Ak-su und Chotan kommen Händler hierher.
 Ein Chanekah (Bethaus), zwei Medressen und einige Karawanserais sind die
-einzigen Gebäude, die sich von den üblichen niedrigen Lehmhäusern unterscheiden.
-—
+einzigen Gebäude, die sich von den üblichen niedrigen Lehmhäusern unterscheiden. —
 
 Ich werde den Leser nicht durch eine ausführliche Schilderung unserer Wanderung
 durch die Wälder des Tarim ermüden. Aber um einen, wenn auch nur flüchtigen

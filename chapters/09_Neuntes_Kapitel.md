@@ -87,7 +87,7 @@ Seen filtrirte Wasser von hier nach Süden, um sich zwei gute Tagereisen weiter
 unten wieder mit dem Tarim zu vereinigen, nachdem es noch eine Kette von
 kleinern Seen gebildet hat.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Vertreibung der Mücken durch Anzünden eines Schilffeldes.](Durch_Asiens_Wuesten_II_158.jpg "Vertreibung der Mücken durch Anzünden eines Schilffeldes."){#b158}
 ::::
 
@@ -151,7 +151,7 @@ Wohlsein bei Staatsrath Backlund in Pulkowa, wo ihm seine ein wenig ungebildeten
 asiatischen Gewohnheiten bald ausgetrieben wurden und wo er voll Ungeduld die
 nächste Reise nach den großen Wüsten erwartet.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Idyllische Bootfahrt auf dem Ilek.](Durch_Asiens_Wuesten_II_160.jpg "Idyllische Bootfahrt auf dem Ilek."){#b160}
 ::::
 
@@ -221,14 +221,13 @@ vom „Tschong-tura“, dem großen Herrn, Prschewalskij, erzählen hören, der 
 zwanzig bis an die Zähne bewaffneten Kosaken, langen Reihen von Kamelen 
 und Ueberfluß an Allem zu ihren Stammverwandten im Süden gekommen war.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-50 .align-center .caption  }
 ![Lop-Mann im Einbaum.](Durch_Asiens_Wuesten_II_162.jpg "Lop-Mann im Einbaum."){#b162}
 ::::
 
-:::: { .wrap-60 .break-before }
-![Lop-Knabe vom Sadak-kͥöll.](Durch_Asiens_Wuesten_II_163.jpg "Lop-Knabe vom Sadak-kͥöll."){#b163}
+:::: { .wrap-60 .align-center .caption  }
+![Lop-Knabe vom Sadak-köll.](Durch_Asiens_Wuesten_II_163.jpg "Lop-Knabe vom Sadak-köll."){#b163}
 ::::
-
 
 Als sie mich mutterseelenallein, ohne Diener und Karawane, auf der Bootfahrt mit
 zweien ihrer Brüder, ihre Sprache sprechend, ihre Speisen essend und beinahe
@@ -337,7 +336,7 @@ ich schon lange; das hat mir schon Tschong-tura gesagt. Ich weiß ganz genau, wi
 es bei Euch daheim aussieht, und ich bin ja beinahe ein ebenso guter «Russe»
 geworden wie Ihr.“
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .align-center .caption  }
 ![Kuntschekkan Bek's Schwiegertochter mit einem Spinnrocken.](Durch_Asiens_Wuesten_II_168.jpg "Kuntschekkan Bek's Schwiegertochter mit einem Spinnrocken."){#b168}
 ::::
 
@@ -346,7 +345,7 @@ Dorfe *Kum-tschappgan*, und der alte Kuntschekkan Bek, „der Häuptling der
 aufgehenden Sonne“, führte dabei das Ruder ebenso kräftig und sicher, wie er es
 schon vor 65 Jahren gethan haben mochte.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .align-center .caption  }
 ![Kinder aus Kum-tschappgan.](Durch_Asiens_Wuesten_II_169.jpg "Kinder aus Kum-tschappgan."){#b169}
 ::::
 
@@ -385,7 +384,7 @@ Am 22. April bestieg ich mit drei Ruderern ein Boot, Islam Bai mit der Küche un
 zwei Ruderern ein zweites, während ein drittes, ein Miniaturboot, mit dem alten,
 erfahrenen Tusun uns den Weg durch das Kamisch zeigen und bahnen sollte.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![Lopliks auf dem Tarim bei Kum-tschappgan.](Durch_Asiens_Wuesten_II_170.jpg "Lopliks auf dem Tarim bei Kum-tschappgan."){#b170}
 ::::
 
@@ -447,7 +446,7 @@ Das Hinüberreichen aus dem Proviantboote ging so vor sich, daß Islam die ganze
 Mahlzeit in eine Holzschale legte, die auf die ruhige Wasserfläche gesetzt wurde
 und die wir dann im Vorüberfahren auffischten.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .align-center .caption  }
 ![In einem Schilftunnel des Lop-nor.](Durch_Asiens_Wuesten_II_172.jpg "In einem Schilftunnel des Lop-nor."){#b172}
 ::::
 

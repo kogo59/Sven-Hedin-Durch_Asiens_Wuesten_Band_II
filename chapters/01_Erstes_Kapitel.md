@@ -246,7 +246,7 @@ dieser Gegend verirrt haben, nie wieder etwas gehört hat. Es ist ein Brauch, de
 an Marco Polo's Angabe erinnert: „und zur Schlafenszeit wird eine Signalstange
 errichtet, um die Richtung des nächsten Tagemarsches zu zeigen“.
 
-:::: { .wrap-70  }
+:::: { .wrap-70  .caption .align-center}
 ![Li Darin, Amban von Kargalik.](Durch_Asiens_Wuesten_II_009.jpg "Li Darin, Amban von Kargalik."){#b009}
 ::::
 
@@ -290,7 +290,7 @@ Schafe auf den Feldern und in den Saaten eines andern Schaden an, so muß ihr
 Besitzer den Verlust ersetzen, wenn die Beschädigung bei klarem Wetter verübt
 worden ist, aber nicht, wenn sie bei Sandsturm geschehen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center }
 ![Muhammedanisches Heiligengrab in Guma.](Durch_Asiens_Wuesten_II_010.jpg "Muhammedanisches Heiligengrab in Guma."){#b010}
 ::::
 
@@ -310,10 +310,9 @@ gekommen ist, der nächste von Guma kommt, und daß es entweder derselbe Buran
 ist, der wieder umkehre, oder ein anderer, der auf dem Wege ist, jenen
 aufzusuchen.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center}
 ![Station Tschullak-lenger.](Durch_Asiens_Wuesten_II_011.jpg "Station Tschullak-lenger."){#b011}
 ::::
-
 
 Der nächste Tagemarsch führte uns nach *Tschullak-lenger* (Krüppelherberge), so
 genannt, weil hier vor vielen Jahren eine alte Bettlerin ohne Füße am Wege
@@ -325,7 +324,7 @@ auf einem Hügel, von dem die Aussicht nach Osten endlos ist. Die Ebenen dehnen
 sich, schmalen Bändern gleich, hintereinander in immer schwächern Nüancen bis an
 den Horizont aus, wo Himmel und Erde in gelbem Dunste verschwimmen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Ein chinesisches Potai auf dem Wege nach Chotan.](Durch_Asiens_Wuesten_II_012.jpg "Ein chinesisches Potai auf dem Wege nach Chotan."){#b012}
 ::::
 
@@ -343,7 +342,7 @@ ließen, weiß ich nicht, aber besonders sorgfältig scheint sie nicht gewesen z
 sein. Bei dem Marschtempo, in dem wir gingen, brauchten wir gewöhnlich drei
 Viertelstunden, um ein Potai zurückzulegen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Die Stadt Guma.](Durch_Asiens_Wuesten_II_014.jpg "Die Stadt Guma."){#b014}
 ::::
 
@@ -363,7 +362,7 @@ die Lage der Gräber zur Richtung nach Mekka, das „Kebleh“, zeigten, daß hi
 Dschaggataitürken begraben lagen. Einige Gerippe waren in Lumpen eingehüllt, die
 bei der Berührung zerfielen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Markt in Mudschi.](Durch_Asiens_Wuesten_II_015.jpg "Markt in Mudschi."){#b015}
 ::::
 
@@ -398,7 +397,7 @@ Jahrtausende bedeutende, oben aufliegende Schichten fortgeführt, in denen die
 Scherben enthalten gewesen, die dann allmählich gesunken und auf das jetzige
 Niveau des Bodens gebracht worden sind. 
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Kanal in Guma.](Durch_Asiens_Wuesten_II_018.jpg "Kanal in Guma."){#b018}
 ::::
 

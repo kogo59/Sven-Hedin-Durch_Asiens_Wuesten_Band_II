@@ -26,7 +26,7 @@ war abgeschossen und baumelte lose am Fleisch. Aber das Thier hatte einen
 bedeutenden Vorsprung, obgleich die verfolgenden Hunde in gestrecktem Galopp
 rannten.
 
-Islam und Parpi folgten ihnen so schnell, wie ihre Pferde es erlaͤubten. Ich und
+Islam und Parpi folgten ihnen so schnell, wie ihre Pferde es erlaubten. Ich und
 Emir Mirza ritten in gewöhnlichem Tempo der Spur nach. Manchmal hatte der Chulan
 halt gemacht; an diesen Stellen hatte sich eine große Blutlache angesammelt. Er
 konnte also nicht lange mehr aushalten, und geduldig folgten wir ihm zwei volle
@@ -62,7 +62,7 @@ inwendig aber weiß. Die Beine werden nach unten hin immer heller und zuletzt
 weiß. Die Augen sind braun und haben große, schwarze Pupillen von genau
 derselben Form wie die eines Pferdes oder eines Esels.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Der angeschossene Chulan.](Durch_Asiens_Wuesten_II_276.jpg "Der angeschossene Chulan."){#b276}
 ::::
 
@@ -120,7 +120,7 @@ war eine Uferlinie sichtbar; es ließ sich jedoch nicht feststellen, ob sie auf
 einen höhern Wasserstand während der reichlichern Zuflüsse im Sommer hindeutete
 oder nur vom Wellenschlag gebildet worden war.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Sonnenuntergang bei Lager Nr. XV.](Durch_Asiens_Wuesten_II_278.jpg "Sonnenuntergang bei Lager Nr. XV."){#b278}
 ::::
 
@@ -135,7 +135,7 @@ Am 31. August gelangten wir an eine unbedeutende Wasserscheide, von deren
 Ostseite kleine Furchen und Bäche nach dem See Nr. 9 hinuntergingen, nachdem wir
 schon vorher drei kleine Seen passirt hatten.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Der große Salzsee im Westen des Lagers Nr. XV.](Durch_Asiens_Wuesten_II_279.jpg "Der große Salzsee im Westen des Lagers Nr. XV."){#b279}
 ::::
 
@@ -160,7 +160,7 @@ unzählige kleine Gruben gehabt, die von einem kleinen Nagethiere, dem Teschikan
 das man manchmal pfeifend in ihnen verschwinden sah, gegraben worden waren. In
 diese Gruben stolperten die Pferde unaufhörlich.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Möve vom See Nr. 5.](Durch_Asiens_Wuesten_II_280.jpg "Möve vom See Nr. 5."){#b280}
 ::::
 
@@ -248,7 +248,7 @@ Gefahr nicht geahnt, und daher sei die Mutter, die herbeigelaufen, um sie zu
 warnen, eine leichte Beute geworden. Doch sobald sie gefallen, seien die Kälber
 über die nächsten Hügel entflohen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center  }
 ![Aussicht nach Westen vom Lager Nr. XVIII.](Durch_Asiens_Wuesten_II_283.jpg "Aussicht nach Westen vom Lager Nr. XVIII."){#b283}
 ::::
 
@@ -289,7 +289,7 @@ schien. Islam, der jetzt vor Jagdeifer glühte, schlich sich wie ein Panther
 gegen den Wind heran und begann das Thier aus entsprechender Entfernung zu
 bombardiren.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Die erlegte Yakkuh.](Durch_Asiens_Wuesten_II_285.jpg "Die erlegte Yakkuh."){#b285}
 ::::
 
@@ -374,7 +374,7 @@ unwegsamen Boden tragen zu können. Die beiden Hufzehen können sich leicht
 einander nähern, wodurch die Sicherheit des Auftretens beim Klettern auf steilen
 Bergen oder über schlüpfrige Schuttkegel erhöht wird.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Der erbeutete Yakstier von der Seite.](Durch_Asiens_Wuesten_II_288.jpg "Der erbeutete Yakstier von der Seite."){#b288}
 ::::
 
@@ -395,7 +395,7 @@ entwickeln kann, bei einem Grase, das im Winter todt und vertrocknet und auch im
 Sommer so hart und bitter ist, daß unsere Karawanenthiere nur durch den Hunger
 dazu getrieben werden konnten, davon zu fressen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Der erbeutete Yakstier von vorn.](Durch_Asiens_Wuesten_II_289.jpg "Der erbeutete Yakstier von vorn."){#b289}
 ::::
 
@@ -478,7 +478,7 @@ Gefilden des ewigen Schnees hinauf. Hier findet er ein besonderes Vergnügen
 daran, sich in dem mehlfeinen Firnschnee zu wälzen und sich in denselben zu
 legen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center  }
 ![König Oskar-Berg in Tibet.](Durch_Asiens_Wuesten_II_292.jpg "König Oskar-Berg in Tibet."){#b292}
 ::::
 

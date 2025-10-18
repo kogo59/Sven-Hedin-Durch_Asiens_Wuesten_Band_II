@@ -210,7 +210,7 @@ Kleidungsstück ein offener Pelz bildete. In der Nähe des Lagers weideten ihre
 300 Schafe. Außerdem besaßen sie einen Hahn und drei Hühner, eine Taube und ein
 paar Hunde.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .align-center .caption }
 ![Lager eines neuentdeckten Hirtenstammes.](Durch_Asiens_Wuesten_II_086.jpg "Lager eines neuentdeckten Hirtenstammes."){#b086}
 ::::
 
@@ -224,7 +224,7 @@ Einige der Männer trugen eine recht eigenthümliche Fußbekleidung, die wir hie
 zum ersten mal sahen: die Fußschwielen des wilden Kamels mit den Hufen. Die
 wilden Hirtenfamilien wurden leicht zahm und ließen sich sogar alle abzeichnen.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .align-center .caption }
 ![Pfahlrost eines Hauses in der alten Stadt bei Kara-dung.](Durch_Asiens_Wuesten_II_087.jpg "Pfahlrost eines Hauses in der alten Stadt bei Kara-dung."){#b087}
 ::::
 
@@ -336,7 +336,7 @@ die Wälder des Kerija-darja bewohnt sind, denn sonst würden diese Eingeborenen
 wohl ebenso wenig wie die andern von den Besuchen der Steuereinnehmer verschont
 bleiben.
 
-:::: { .wrap-60 }
+:::: { .wrap-60 .align-center .caption }
 ![Muhammed Bai.](Durch_Asiens_Wuesten_II_091.jpg "Muhammed Bai."){#b091}
 ::::
 
@@ -377,7 +377,7 @@ Als ich fragte, ob es nicht schön sei, eine so unbegrenzte Freiheit zu genieße
 und vor allem der Berührung mit den chinesischen Behörden zu entgehen, sagte er,
 daß er Wölfe und Wildschweine für ebenso schlimme Feinde halte wie die Chinesen.
 
-:::: { .wrap-80 }
+:::: { .wrap-80  .align-center .caption}
 ![Muhammed Bai's Schilfhütte.](Durch_Asiens_Wuesten_II_094.jpg "Muhammed Bai's Schilfhütte."){#b094}
 ::::
 
