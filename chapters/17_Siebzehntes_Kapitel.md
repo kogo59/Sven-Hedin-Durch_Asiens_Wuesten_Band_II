@@ -7,7 +7,7 @@ krystallklaren Fluß kamen wir in ein breites Thal mit hartem, für die
 Karawanenthiere angenehmem Kiesboden.
 
 In dem mit dünnem Gras bewachsenen Thale zwischen beiden überraschten wir einen
-schönen Chulan^[^1700]^, der, wie gewöhnlich, streckenweise vor der Karawane herlief, von
+schönen Chulan<sup>[^1700]</sup>, der, wie gewöhnlich, streckenweise vor der Karawane herlief, von
 den Hunden verfolgt, ohne sich jedoch weiter um diese zu kümmern. Dagegen
 betrachtete er die Karawane jedesmal, wenn er stehen blieb, mit der größten
 Aufmerksamkeit und Verwunderung, spitzte die Ohren, blähte die Nüstern auf und
@@ -129,7 +129,7 @@ von Westen her von weißschäumenden Wellen wogte, die in gleichmäßigem Tempo 
 ans Ufer schlugen. Die von mittelhohen Bergketten eingerahmte Seefläche hatte
 ungefähr dieselbe absolute Höhe wie das Lager Nr. XV, 4936 Meter. Um die neu
 entdeckten Seen auseinanderhalten zu können, beschloß ich, sie in Zukunft zu
-numeriren. Dieser See wurde Nr. 5.^[^1701]^
+numeriren. Dieser See wurde Nr. 5.<sup>[^1701]</sup>
 
 Am 31. August gelangten wir an eine unbedeutende Wasserscheide, von deren
 Ostseite kleine Furchen und Bäche nach dem See Nr. 9 hinuntergingen, nachdem wir

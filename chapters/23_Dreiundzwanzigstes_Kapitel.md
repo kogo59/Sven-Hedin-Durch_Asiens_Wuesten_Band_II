@@ -133,7 +133,7 @@ Unter dem Thore eines hübschen chinesischen Hauses mit rechtwinkeligem Hofe kam
 mir eine barhäuptige junge Frau in chinesischer Kleidung entgegen und fragte mit
 der größten Freundlichkeit: „Do you speak English?“ Als sie hörte, daß dies der
 Fall sei, war die Unterhaltung bald in vollem Gange. Sie stellte sich mir als
-Mrs. Rijnhart^[^2300]^ vor, Amerikanerin, Doktor der Medicin und Frau des holländischen
+Mrs. Rijnhart<sup>[^2300]</sup> vor, Amerikanerin, Doktor der Medicin und Frau des holländischen
 Missionars Rijnhart, der vor einem Monat mit dem kürzlich von seiner
 tibetanischen Reise zurückgekehrten Kapitän Wellby nach Peking gereist war.
 
@@ -266,7 +266,7 @@ auf einen dreieckigen Markt ritten, an dem das Wirthshaus lag.
 Dort quartierten wir uns in einem Stübchen auf dem Dache ein, wohin das Gepäck
 hinaufgehißt werden mußte. Unter uns breitete sich das Dorf mit seinen Gehöften
 und Gassen aus, und auf den Hügeln im Südosten sah man die weißen Mauern des
-berühmten Tempels von *Kum-bum*^[^2301]^.
+berühmten Tempels von *Kum-bum*<sup>[^2301]</sup>.
 
 &nbsp;20. November. Am Morgen ging ich mit Loppsen zu Fuß nach dem Tempel, denn
 wenn man es hätte wagen wollen, auf den heiligen Pfaden zu reiten, so hätte man
@@ -358,7 +358,7 @@ denken, wo man ebensolche goldene Bilder mit brennenden Kerzen in dem mystischen
 Halbdunkel sieht.
 
 In der Mitte des viereckigen Saales thronte die gegen 10 Meter hohe
-Kolossalstatue des *Tsung Kaba*^[^2302]^, in Mäntel gehüllt, die nur den Kopf und die
+Kolossalstatue des *Tsung Kaba*<sup>[^2302]</sup>, in Mäntel gehüllt, die nur den Kopf und die
 Hände hervorschauen ließen. Stumm und feierlich saß er da und blickte
 verächtlich auf die Pilger herab, die mit ihren schwieligen Händen die Rinnen
 des Fußbodens im Schweiße ihres Angesichts blank schliffen. Um ihn herum sah man

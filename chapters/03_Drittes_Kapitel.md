@@ -57,7 +57,7 @@ Die Mittheilung, die ich hier zu machen wage, darf nur als eine vorläufig
 orientirende betrachtet werden. Eine eingehende Bearbeitung der Sammlung wird
 kompetenten Forschern überlassen werden. Als Stütze habe ich meinerseits die
 oben erwähnte Arbeit von Kiserizkij benutzt, welche Gegenstände derselben Art
-von demselben Fundorte schildert, und Grünwedel's^[^0300]^ vorzügliche und anschauliche
+von demselben Fundorte schildert, und Grünwedel's<sup>[^0300]</sup> vorzügliche und anschauliche
 Schrift „Buddhistische Kunst in Indien“. Auf den folgenden Seiten habe ich diese
 Quellen bei so vielen Gelegenheiten benutzt, daß ich sie hier ein für allemal
 anführe.
@@ -145,7 +145,7 @@ mußten oder sich, sozusagen, lokalisirten und akklimatisirten.
 
 Wann der politische Zusammenhang zwischen Persien und Indien anfing und
 aufhörte, wissen wir nicht mit voller Sicherheit. Aber wir wissen durch die
-zuerst von Grotefend^[^0301]^ übersetzten, persisch, medoskythisch und babylonisch
+zuerst von Grotefend<sup>[^0301]</sup> übersetzten, persisch, medoskythisch und babylonisch
 abgefaßten Keilschriften zu Bisutun in Westpersien mit vollkommener Gewißheit,
 daß der von 521 bis 485 v. Chr. regierende Achämenide, der Sohn des Darius
 Hystaspes, unter seine 32 Satrapien auch folgende beiden tributpflichtigen
@@ -536,8 +536,8 @@ Medaille aus Chotan machte, die hier abgebildet ist und die zeigt, daß es auch
 dort einst christliche Missionare gegeben hat. Die Medaille hat wahrscheinlich
 irgendeiner katholischen Brüderschaft als Ordenszeichen gedient. Auf der einen
 Seite finden wir einen Mönch mit einem Heiligenschein, der ein Kruzifix anbetet
-und von den Worten S. Andrea Avelin^[^0302]^ umgeben ist, auf der andern eine
-Jungfrau, Sa. Irene^[^0303]^, die auch einen Heiligenschein hat und einen Palmenzweig in
+und von den Worten S. Andrea Avelin<sup>[^0302]</sup> umgeben ist, auf der andern eine
+Jungfrau, Sa. Irene<sup>[^0303]</sup>, die auch einen Heiligenschein hat und einen Palmenzweig in
 der Hand hält.
 
 :::: { .wrap-70 .caption .align-center }

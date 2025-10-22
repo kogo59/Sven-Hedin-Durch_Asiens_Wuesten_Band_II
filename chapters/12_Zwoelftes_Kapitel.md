@@ -48,7 +48,7 @@ gezwungen worden, seine Thore dem Scharfblicke der europäischen Forschung ein
 wenig zu öffnen. Hauptsächlich sind es die westlichen und östlichen Theile
 Tibets, die von den Routen englischer, russischer und französischer Reisenden
 durchzogen worden sind; in Lassa haben in neuerer Zeit nur einige wenige
-Punditen^[^1200]^ (eingeborene indische Gelehrte) Zutritt gefunden, die von englischen
+Punditen<sup>[^1200]</sup> (eingeborene indische Gelehrte) Zutritt gefunden, die von englischen
 Offizieren erzogen und unterrichtet worden waren. Die Befürchtungen der
 chinesischen Regierung, der religiöse Fanatismus der Tibetaner und die
 unzugängliche, wilde Natur sind die Ursache, daß Tibet sich länger hat isoliren
@@ -57,21 +57,21 @@ können als andere asiatische Länder.
 Zu einer Zeit, in der Rußlands und Englands Einfluß in Asien noch nicht so groß
 war, gelang es mehr als einem Europäer, nicht nur das Land zu durchreisen,
 sondern auch in die Hauptstadt zu kommen. So begab sich in der ersten Hälfte des
-14. Jahrhunderts der Mönch *Odorico di Pordenone*^[^1201]^ von China nach Tibet; er war
+14. Jahrhunderts der Mönch *Odorico di Pordenone*<sup>[^1201]</sup> von China nach Tibet; er war
 der erste Europäer, der Lassa erreichte. 1624 machte der spanische Jesuit
-*Antonio d'Andrada*^[^1202]^ eine Reise von Indien nach Tibet, und 1661 unternahmen die
-beiden Jesuitenmissionare *Grueber*^[^1204]^ und *d'Orville*^[^1203]^ ihren denkwürdigen Zug von
+*Antonio d'Andrada*<sup>[^1202]</sup> eine Reise von Indien nach Tibet, und 1661 unternahmen die
+beiden Jesuitenmissionare *Grueber*<sup>[^1204]</sup> und *d'Orville*<sup>[^1203]</sup> ihren denkwürdigen Zug von
 Peking über Koko-nor, Zaidam und das Land der Tanguten nach Lassa; nachdem sie
 sich zwei Monate in der Hauptstadt aufgehalten, kehrten sie über Nepal nach Agra
 und Europa zurück. Im 18. Jahrhundert wurde die geheimnißvolle Stadt von mehrern
-Missionaren besucht. *Desideri*^[^1205]^ hielt sich von 1716—29 in Lassa auf, *della
-Penna*^[^1206]^ war dort 1719—35 und 1740—46; sie haben einige Briefe von ihren Reisen
+Missionaren besucht. *Desideri*<sup>[^1205]</sup> hielt sich von 1716—29 in Lassa auf, *della
+Penna*<sup>[^1206]</sup> war dort 1719—35 und 1740—46; sie haben einige Briefe von ihren Reisen
 hinterlassen. Während der Jahre 1729—37 machte der kühne Holländer *van de
-Putte*^[^1207]^ eine Reise von Indien über Lassa und Koko-nor nach Peking, von wo aus er
+Putte*<sup>[^1207]</sup> eine Reise von Indien über Lassa und Koko-nor nach Peking, von wo aus er
 sich noch einmal, über Hinterindien, nach Lassa begab. Nach der Heimkehr
 verbrannte er alle seine Aufzeichnungen, weil er fürchtete, daß niemand seinen
-ungeheuerlichen Erzählungen Glauben schenken würde! 1811 kam *Manning*^[^1208]^ nach
-Lassa, und 1845 führten die beiden französischen Missionare *Huc*^[^1210]^ und *Gabet*^[^1209]^
+ungeheuerlichen Erzählungen Glauben schenken würde! 1811 kam *Manning*<sup>[^1208]</sup> nach
+Lassa, und 1845 führten die beiden französischen Missionare *Huc*<sup>[^1210]</sup> und *Gabet*<sup>[^1209]</sup>
 ihre berühmte Reise von Peking über Koko-nor, Burchan-Budda und Tan-la nach der
 Hauptstadt Tibets aus, eine Fahrt, die Pater Huc in einem interessanten Buche
 geschildert hat. Nach ihnen ist es keinem Europäer mehr geglückt, bis Lassa
@@ -82,15 +82,15 @@ Die peripherischen Theile des Landes hingegen sind von mehrern europäischen
 Reisenden besucht worden, von denen jedoch nicht alle zu wissenschaftlichen
 Arbeiten befähigt waren oder werthvolle Aufklärungen mitgebracht haben. Den
 äußersten Westen von Tibet bereisten in den Jahren 1856 und 1857 die Brüder
-*Schlagintweit*^[^1211]^, 1865 *Johnson*^[^1212]^, 1868—70 *Shaw*^[^1213]^,
-1868—70 *Hayward*^[^1214]^, 1870 und 1873—74 *Forsyth*^[^1215]^ mit seinen
-vielen Begleitern, 1885—87 *Carey*^[^1217]^ und *Dalgleish*^[^1216]^, 1888—90
-*Grombtschewskij*. *Kischen Singh*^[^1218]^, ein Pundit, der sich an Forsyth's
+*Schlagintweit*<sup>[^1211]</sup>, 1865 *Johnson*<sup>[^1212]</sup>, 1868—70 *Shaw*<sup>[^1213]</sup>,
+1868—70 *Hayward*<sup>[^1214]</sup>, 1870 und 1873—74 *Forsyth*<sup>[^1215]</sup> mit seinen
+vielen Begleitern, 1885—87 *Carey*<sup>[^1217]</sup> und *Dalgleish*<sup>[^1216]</sup>, 1888—90
+*Grombtschewskij*. *Kischen Singh*<sup>[^1218]</sup>, ein Pundit, der sich an Forsyth's
 Expedition betheiligte, gelang es, ein wenig tiefer als die übrigen in das Land
 einzudringen.
 
 Eine der merkwürdigsten Reisen, die in Tibet unternommen wurden, ist die des
-Punditen *Nain Singh*^[^1219]^. Er hatte an den Expeditionen Schlagintweit's und
+Punditen *Nain Singh*<sup>[^1219]</sup>. Er hatte an den Expeditionen Schlagintweit's und
 Forsyth's theilgenommen und wurde im Juli 1874 von Hauptmann Trotter von Leh in
 Ladak nach Lassa geschickt. Seine Karawane bestand aus 26, mit leichten Lasten
 ausgerüsteten Schafen, von denen nur 4 den ganzen 1600 Kilometer langen Weg in 4
@@ -108,7 +108,7 @@ von 2000 Kilometer unbekannten Landes, 497 Höhenmessungen mit dem
 Siedethermometer, sowie in einer Reihe meteorologischer Beobachtungen.
 
 Unter den Reisenden im östlichen Theile von Tibet nimmt der russische General
-*Prschewalskij*^[^0400]^ den ersten Rang ein. Am 29. November 1870 verließ er mit drei
+*Prschewalskij*<sup>[^0400]</sup> den ersten Rang ein. Am 29. November 1870 verließ er mit drei
 russischen Begleitern Kiachta und zog durch die Wüste Gobi über Urga und Kalgan
 nach Peking. Nach einem Abstecher zum See Dalai-nor verließ er im Mai 1871
 Kalgan und zog nach Westen zwischen den Bergketten In-schan und Muni-ula weiter,
@@ -168,7 +168,7 @@ Gutschen und Chami einen Weg dahin zu suchen, erkrankte aber in der
 erstgenannten Stadt und mußte wieder nach Rußland zurückkehren.
 
 Der Glanzpunkt dieser Reise ist die Entdeckung des neuen Lop-nor und der
-gewaltigen Bergkette Altun-tag^[^1222]^, die das Aussehen Centralasiens auf unsern Karten
+gewaltigen Bergkette Altun-tag<sup>[^1222]</sup>, die das Aussehen Centralasiens auf unsern Karten
 in hohem Grade verändert hat, sowie die Feststellung der Existenz des wilden
 Kamels, die nachher auch von Carey und Younghusband bestätigt worden ist.
 
@@ -187,21 +187,21 @@ und endete im Oktober 1885. Mit 20 Begleitern, die meisten von ihnen Kosaken,
 legte er 7815 Kilometer zurück; die Kosten der Expedition beliefen sich auf
 85&nbsp;000 Mark. Von Kiachta begab er sich auf dem ihm schon bekannten Wege
 durch die Gobi, dann über das Hochland Gan-su nach den beiden Quellseen des
-Hvang-ho, dem Tsaring-nor^[^1220]^ und dem Oring-nor^[^1221]^; dies war der Glanzpunkt der vierten
+Hvang-ho, dem Tsaring-nor<sup>[^1220]</sup> und dem Oring-nor<sup>[^1221]</sup>; dies war der Glanzpunkt der vierten
 Reise. Nach einem Abstecher nach dem Jang-tsekiang zog er weiter durch Zaidam
 und über den Altun-tag zum Lop-nor und am nördlichen Fuße des Kven-lun-Gebirges
 entlang nach Chotan, sowie schließlich den Chotan-darja abwärts und über den
 Tien-schan.
 
 Von großer Bedeutung für die Geographie des östlichen Tibet sind die
-ausgedehnten Reisen, die 1878—82 von dem Punditen Krischna^[^1218]^, gewöhnlich A—K—
+ausgedehnten Reisen, die 1878—82 von dem Punditen Krischna<sup>[^1218]</sup>, gewöhnlich A—K—
 genannt, unternommen wurden. Im Frühjahr 1878 erhielt er von der indischen
 Regierung den Auftrag, das Gebiet zu erforschen, das im Norden von
 Prschewalskij's Reisen, im Osten von den Routen der französischen Missionare
 Desgodins und Durand, sowie des Engländers Gill, im Süden vom Sang-po und
 Himalaja und im Westen vom Meridian Lassa-Lop-nor begrenzt wird. Diese Gegend
 ist in neuerer Zeit nur von den Routen von Huc und Gabet sowie von Bonvalot und
-dem Prinzen Henri von Orléans^[^1223]^ durchzogen worden.
+dem Prinzen Henri von Orléans<sup>[^1223]</sup> durchzogen worden.
 
 Als Kaufmann verkleidet, mit Geldmitteln und Instrumenten reichlich versehen,
 ging A—K— über Sikkim nach Lassa, das er im September 1878 erreichte. Hier blieb
@@ -237,7 +237,7 @@ einem treuen Diener trat A—K— daher den Rückweg an, mußte aber noch einmal
 (Tatsienlu), wo er in der Missionsstation vom Bischof alle mögliche Hülfe
 erhielt. Ueber Batang kehrte er nach Indien zurück.
 
-In den Jahren 1888—89 führte der Amerikaner *Rockhill*^[^1224]^ eine Reise im östlichen
+In den Jahren 1888—89 führte der Amerikaner *Rockhill*<sup>[^1224]</sup> eine Reise im östlichen
 Tibet aus. Er brach von Peking mit nur wenigen Begleitern und einigen Pferden
 auf und begab sich nach dem Kokonor und dem Alak-nor, überschritt den
 Jang-tse-kiang und kehrte dann wieder nach Shanghai zurück. Er war des
@@ -251,7 +251,7 @@ Ehrgeiz verlocken lassen, Züge zu unternehmen, deren Ziel das innere Tibet und
 besonders Lassa waren. Vielen ist es mißglückt, andere haben schöne Resultate
 mit nach Hause gebracht.
 
-Am besten gelang es *Bonvalot*^[^1225]^ und dem Prinzen *Henri von Orléans*, die Asien
+Am besten gelang es *Bonvalot*<sup>[^1225]</sup> und dem Prinzen *Henri von Orléans*, die Asien
 von Nordwesten nach Südosten durchquerten. Nach dem Lop-nor und dem Altun-tag
 folgte die Expedition der Route Prschewalskij's am Tarim entlang. Am 17.
 November 1889 brachen sie vom Lop-nor auf, am 23. hatten sie den Altun-tag
@@ -278,8 +278,8 @@ und am obern Jarkentdarja, sowie auf der Wasserscheide zwischen beiden Flüssen.
 Nach einem Besuche in Pamir begab er sich über Kaschgar nach Taschkent, wo ich
 zu Ende des Jahres 1890 mit ihm zusammentraf. Er hatte Karten über eine Strecke
 von 7600 Kilometer aufgenommen, und seine Forschungen bilden ein
-Verbindungsglied zwischen denen Kuropatkin's^[^1226]^ (1877), Forsyth's (1873—74),
-Prschewalskij's (1885) und Pjewzoff's^[^1227]^ (1889—90). Mit letzterm traf er in Nija
+Verbindungsglied zwischen denen Kuropatkin's<sup>[^1226]</sup> (1877), Forsyth's (1873—74),
+Prschewalskij's (1885) und Pjewzoff's<sup>[^1227]</sup> (1889—90). Mit letzterm traf er in Nija
 zusammen, wo die beiden Reisenden ihre Ortsbestimmungen vergleichen und in
 Uebereinstimmung bringen konnten.
 
@@ -309,7 +309,7 @@ Mongolei nach Lassa gerade südlich von dem Punkte, wo dieser Weg durch einen Pa
 einen Theil des Weges des Punditen A—K— zurück. Er führte seine Reise in den
 Jahren 1885—87 aus.
 
-Hauptmann *Younghusband*^[^1228]^, der seinen Namen schon durch mehrere Reisen in Pamir
+Hauptmann *Younghusband*<sup>[^1228]</sup>, der seinen Namen schon durch mehrere Reisen in Pamir
 berühmt gemacht hatte, reiste im Jahre 1888 von Peking über Barkul, Ak-su und
 Kaschgar nach Indien; Hauptmann Bower durchquerte vom Juni 1891 bis zum März
 1892 Tibet und China von Leh bis Schanghai.
@@ -339,7 +339,7 @@ ihres Alters und ihrer Entstehung verschaffen. In dieser Beziehung sind in
 Hochasien noch große Fragen zu lösen, und eine lange Reihe von Jahren dürfte
 verfließen, ehe diese Probleme einigermaßen Klärung gefunden. Während der
 letzten 25 Jahre sind innerhalb des Kven-lun-Systems nur vier hervorragende
-Geologen thätig gewesen, *Stoliczka*^[^1229]^, *Richthofen*^[^1230]^, *Loczy* und *Bogdanowitsch*^[^1231]^.
+Geologen thätig gewesen, *Stoliczka*<sup>[^1229]</sup>, *Richthofen*<sup>[^1230]</sup>, *Loczy* und *Bogdanowitsch*<sup>[^1231]</sup>.
 Ungeheure Lücken trennen die von ihnen untersuchten Gebiete voneinander. Es ist
 meine Absicht, einigermaßen zur Ausfüllung dieser Lücken beizutragen, da jeder
 Versuch, jedes erschlossene Profil von größter Wichtigkeit ist.

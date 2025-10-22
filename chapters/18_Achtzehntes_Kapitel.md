@@ -6,7 +6,7 @@
 mächtigen, spitzen Berggipfel, der auf zwei Drittel seiner relativen Höhe mit
 einem Mantel von glänzenden Schneefeldern bekleidet war. Dieser Berg, dessen
 Scheitel über die ganze Umgebung emporragte und der wie ein Leuchtthurm lange
-sichtbar blieb, erhielt den Namen „König Oskar-Berg“^[^1800]^.
+sichtbar blieb, erhielt den Namen „König Oskar-Berg“<sup>[^1800]</sup>.
 
 Im Osten des Lagers dehnte sich ein großer See aus, dessen Nordufer wir folgten.
 Das Wasser war außerordentlich bitter, schillerte aber in den schönsten
@@ -195,7 +195,7 @@ Meine erste Sorge war, eine Kanne Wasser aus dem See Nr. 19 holen zu lassen. Es
 war klar und herrlich. Ich nahm einen Schluck und fand es salzig! Also noch ein
 abflußloses Becken! Und noch ein Paß erwartete uns im Osten. Nun wohl, es blieb
 uns kein anderer Weg. Wir konnten nicht nach Norden oder Nordosten abschwenken,
-um schneller nach Zaidam^[^1801]^ zu gelangen. In dieser Richtung versperrte uns der
+um schneller nach Zaidam<sup>[^1801]</sup> zu gelangen. In dieser Richtung versperrte uns der
 Arka-tag wie eine unübersteigliche Mauer den Weg, und unsere Thiere waren zu
 schwach, um über andere als sehr leichte Pässe gehen zu können.
 

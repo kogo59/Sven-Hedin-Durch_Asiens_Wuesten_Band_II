@@ -245,7 +245,7 @@ jetzt nach Ostsüdosten ab, um sich am Südufer des Koko-nor hinzuziehen.
 
 Hier und dort wurden wieder rabenschwarze Tangutenzelte sichtbar; einigemal sah
 man auch Heerden und Reiter. Fern im Osten begrenzte eine gerade dunkelblaue
-Linie den Horizont, es war der *Koko-nor*^[^2200]^. In der Gegend *Hade-sätschi* schlugen
+Linie den Horizont, es war der *Koko-nor*<sup>[^2200]</sup>. In der Gegend *Hade-sätschi* schlugen
 wir nach einem Marsche von 32½ Kilometer Lager. Der Abend war ruhig und die
 waren sie nicht gewesen, sondern hatten wahrscheinlich die Gebirgsgegenden am
 obern Buchain-gol aufgesucht.
@@ -410,7 +410,7 @@ hineinfalle. Dieses Jahr sollte die Uferlinie zwei oder drei Kilometer weiter im
 Norden verlaufen als sonst.
 
 Möglicherweise waren es diese Unregelmäßigkeiten, die dem unübertrefflichen
-Pater Hue^[^2201]^ Anlaß zu seinem Glauben an Ebbe und Flut im Koko-nor gaben. Er sagt
+Pater Hue<sup>[^2201]</sup> Anlaß zu seinem Glauben an Ebbe und Flut im Koko-nor gaben. Er sagt
 von dem See: „Dieses gewaltige Wasserbecken scheint wirklich eher den Namen
 eines Meeres als den eines Sees zu verdienen, da, abgesehen von seiner
 bedeutenden Ausdehnung, sein Wasser ebenso bitter und salzig ist wie das des

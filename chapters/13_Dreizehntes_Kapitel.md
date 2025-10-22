@@ -127,7 +127,7 @@ Inhalt nach allen Seiten umhergestreut und verschiedene Porzellanschalen
 zertrümmert wurden.
 
 In der Gegend *Kara-sai* hörten wir zum ersten mal von einem Passe über den
-Kven-lun^[^1300]^, der südlich von *Dalai-kurgan* liegen sollte. Wir beschlossen deshalb,
+Kven-lun<sup>[^1300]</sup>, der südlich von *Dalai-kurgan* liegen sollte. Wir beschlossen deshalb,
 nach Kopa zu gehen, um dort genaue Erkundigungen einzuziehen und uns Führer zu
 besorgen.
 

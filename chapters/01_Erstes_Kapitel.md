@@ -47,7 +47,7 @@ Landstraße dorthin, die ich schon kannte, vermeiden wollen und deshalb den Weg
 über die in der Sandwüste liegenden Heiligengräber *Ordan Padschah* und *Hasrett
 Begim* eingeschlagen.
 
-Wir opferten den 510 Kilometern, die uns von Chotan^[^0101]^ trennten, 23 Tage; ich hatte
+Wir opferten den 510 Kilometern, die uns von Chotan<sup>[^0101]</sup> trennten, 23 Tage; ich hatte
 also Zeit und Gelegenheit, von diesem großen, wichtigen und in vieler Beziehung
 interessanten Wege genaue Kenntniß zu erlangen; die Einzelheiten zu schildern
 gestattet mir jedoch der Raum nicht. Die neuen Erfahrungen und Entdeckungen, die
@@ -73,7 +73,7 @@ sowohl von dem Hauptwege und seinen Orten, wie von den von ihm abzweigenden
 Nebenstraßen gesammelt habe.
 
 Am 20. December ritten wir durch das Doppelthor in *Jangischahr*, dem
-chinesischen Stadttheil von Jarkent^[^0100]^, und eine Strecke weiter durch das
+chinesischen Stadttheil von Jarkent<sup>[^0100]</sup>, und eine Strecke weiter durch das
 Altin-därvaseh (das goldene Thor) in *Kovnehschahr* (Altstadt) ein, wo die
 Muhammedaner wohnen. Die beiden Stadttheile liegen nur einen Kilometer
 voneinander entfernt, aber zwischen den Thoren, durch die die Hauptstraße von
@@ -133,7 +133,7 @@ krummen Gassen sich kaum bemerkbar machen, gegen die aber die Pulsadern der
 Bazare, die Gärten und einzelne Weidenbäume grell abstechen. Außerhalb der Mauer
 verliert sich der Blick in einem Durcheinander von Aeckern, Rinnen und Kanälen,
 und im Nordosten erscheint in der Ferne der Jarkent-darja, der sich in die Wüste
-hineinschlängelt, seinem fernen Ziele, dem Lop-nor^[^0102]^, entgegen.
+hineinschlängelt, seinem fernen Ziele, dem Lop-nor<sup>[^0102]</sup>, entgegen.
 
 Obgleich die Stadt in nächster Nähe dieses größten Flusses von Centralasien
 liegt, ist doch ihr Trinkwasser Gift. Es wird durch Kanäle vom Flusse nach
@@ -256,7 +256,7 @@ deren Serai und Weidenbäume weithin deutlich sichtbar sind und infolge einer
 Luftspiegelung etwas über der dunkeln Linie des Horizonts zu schweben scheinen.
 
 Dieses Lenger ist ein ausgezeichnetes Haus, das zu Anfang der Regierung Jakub
-Bek's^[^0103]^ aus gebrannten, graugrünen Ziegelsteinen erbaut worden ist und einen
+Bek's<sup>[^0103]</sup> aus gebrannten, graugrünen Ziegelsteinen erbaut worden ist und einen
 viereckigen, mit großen Ziegelplatten gepflasterten Hof umschließt. Die vier
 Längsseiten des Hauses umfassen zehn Zimmer für Reisende. Sie sind gepflastert,
 und das Tageslicht fällt durch eine runde Oeffnung in der gewölbten Decke

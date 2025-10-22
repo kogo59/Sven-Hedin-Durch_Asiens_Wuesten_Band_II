@@ -19,7 +19,7 @@ Weg noch glatter wurde.
 Stunde auf Stunde ritten wir durch das Thal hinab; schon dämmerte es, und bald
 wurde es stockfinster. Man mußte drauflos reiten, ohne die Hand vor den Augen
 sehen zu können. Endlich hielt unser Führer vor einer Mauer mit einem
-gigantischen Thore: wir waren vor *Si-ning-fu*^[^2400]^.
+gigantischen Thore: wir waren vor *Si-ning-fu*<sup>[^2400]</sup>.
 
 Wir klopften mit unsern Reitpeitschen ans Thor und riefen eine Wache an, die
 oben auf der Mauer die Trommel schlug. Die Thore werden aus Furcht vor den
@@ -48,7 +48,7 @@ Herr und Frau Ridley und die beiden Missionsgehülfen Hunter und Hall hatten sic
 ein chinesisches Haus mit großem, viereckigem Hofe ebenso gemüthlich wie
 komfortabel eingerichtet. In der Bevölkerung hatten sie sich die wärmsten
 Sympathien durch die Opferwilligkeit und Unverdrossenheit gewonnen, die sie
-während des Dunganen-Aufstandes^[^2401]^ durch Errichtung eines Spitals zur Pflege
+während des Dunganen-Aufstandes<sup>[^2401]</sup> durch Errichtung eines Spitals zur Pflege
 verwundeter Soldaten an den Tag gelegt hatten. Dieser Umstand hatte sicherlich
 ihrer Bekehrungsarbeit die Bahn gebrochen, und ich konnte am Sonntagmorgen
 christlichen Kirchenliedern mit Harmoniumbegleitung lauschen, die von einer
@@ -339,7 +339,7 @@ dies um so wichtiger, als ich ohne Dolmetscher war und mir mit dem geringen
 Wortvorrathe, den ich mir hatte zu eigen machen können, durchhelfen mußte.
 
 Sechs Tage fuhren wir bergauf bergab über die östlichen Verzweigungen des
-*Nan-schan-Gebirges*^[^2402]^, über holperige Pässe, zugefrorene oder offene Bäche,
+*Nan-schan-Gebirges*<sup>[^2402]</sup>, über holperige Pässe, zugefrorene oder offene Bäche,
 halsbrecherische Brücken und durch enge Hohlwege. Die Karren stießen und
 rasselten, hüpften und schaukelten; es war die reine Tortur, auf diese Weise zu
 reisen. Die Leute gingen zu Fuß und trieben ihre Thiere an. In jedem Dorfe
@@ -413,10 +413,10 @@ Brücken über die Flüsse zu schlagen, als das Monstrum von Mauer zu bauen, die
 
 Am 12. December traten wir endlich aus dem Gebirge heraus, und vor uns dehnte
 sich wieder die weite Ebene bis an den Rand des Horizonts. Zwei Tage später
-fuhren wir durch ein prächtiges Thor in *Liang-tscheo-fu*^[^2404]^ ein.
+fuhren wir durch ein prächtiges Thor in *Liang-tscheo-fu*<sup>[^2404]</sup> ein.
 
 Auch hier hatte ich die Freude, bei englischen Missionaren, Mr. und Mrs. Belcher
-von der „China Inland Mission“^[^2403]^, Gastfreundschaft zu genießen und die
+von der „China Inland Mission“<sup>[^2403]</sup>, Gastfreundschaft zu genießen und die
 Bekanntschaft ihrer beiden jungen Gehülfinnen, Miß Mellar und Miß Pickels, zu
 machen. Die beiden letztern wohnten in einem andern Hause, ein gutes Stück von
 der eigentlichen Missionsstation, hatten eigenen Haushalt und chinesische Diener

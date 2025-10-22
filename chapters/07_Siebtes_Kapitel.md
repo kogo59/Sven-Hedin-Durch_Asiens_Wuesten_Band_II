@@ -4,7 +4,7 @@
 
 &nbsp;19. Februar. Nach mehrstündigem Marsch im hohen Sande wurde im Norden
 wieder Vegetation sichtbar. Diese bestand, wie sich herausstellte, hauptsächlich
-aus dem auch in Transkaspien gewöhnlichen Wüstenstrauche Saksaul^[^0700]^, kaschgarisch
+aus dem auch in Transkaspien gewöhnlichen Wüstenstrauche Saksaul<sup>[^0700]</sup>, kaschgarisch
 Sak-sak, chotanisch Kö-uruk und mit dem wissenschaftlichen Namen Anabasis
 ammodendron genannt. Der Saksaul scheint die Tamariske zu verdrängen, denn diese
 fehlte hier.
@@ -142,7 +142,7 @@ waren.
 
 In Schah-jar kam mir eine große Idee: laßt uns direkt zum *Lop-nor* gehen, statt
 an dem Chotan-darja aufwärts, den wir schon kennen, wieder zurückzukehren, und
-so mit einem mal diese Reise zum Lop-nor^[^0102]^ abmachen, die einer der Hauptpunkte
+so mit einem mal diese Reise zum Lop-nor<sup>[^0102]</sup> abmachen, die einer der Hauptpunkte
 meines Reiseplanes war!
 
 Die Lop-nor-Frage, die von Professor Freiherrn von Richthofen angeregt worden
@@ -160,7 +160,7 @@ Prschewalskij's Reise dachte man sich den See in einem ungeheuren Becken und
 weiter von dessen südlichen als von den nördlichen Grenzgebirgen gelegen.
 *Prschewalskij* fand indessen den *See viel südlicher*, als die Karten und die
 chinesischen Erzählungen angaben, und das innere Asien erhielt durch seine
-zweite Reise ein ganz anderes Aussehen. Das Gebiet von Korla^[^0705]^ bis zum Altun-tag
+zweite Reise ein ganz anderes Aussehen. Das Gebiet von Korla<sup>[^0705]</sup> bis zum Altun-tag
 war ganz unbekannt, und man hatte keine Ahnung davon, daß der untere Tarim eine
 so lange Strecke in südöstlicher Richtung flösse. Die Entdeckung des Altun-tag
 war ebenso wichtig für die Kenntniß der physischen Geographie Centralasiens wie
@@ -171,7 +171,7 @@ die fürchterliche Sandwüste zwischen Sa-tscheo und dem See passiren mußte.
 
 Seine Beweisführung stützt von Richthofen theils auf einfache geologische
 Gesetze, theils auf eine große Karte von China und Centralasien, die im Jahre
-1863 in Wu-tschang-fu herausgegeben worden ist.^[^0700]^ Er sagt:
+1863 in Wu-tschang-fu herausgegeben worden ist.<sup>[^0700]</sup> Er sagt:
 
 „Das Ueberraschende und Auffallende besteht darin, daß Prschewalskij das letzte
 Reservoir des Tarim viel weiter südlich fand, als die Karten und chinesische
@@ -487,7 +487,7 @@ Stadt nicht.
 Aber Korla liegt an der großen Karawanen- und Handelsstraße zwischen Peking und
 dem Westen und sieht daher viele reiche und vornehme Chinesen vorbeireisen. Was
 mich dort besonders interessirte, war, daß es an dem Flusse Kontsche- oder
-*Korla-darja* liegt, der aus dem *Bagrasch-köll*^[^0701]^^[^0702]^ kommt, dem größten See des
+*Korla-darja* liegt, der aus dem *Bagrasch-köll*<sup>[^0701]</sup><sup>[^0702]</sup> kommt, dem größten See des
 innersten Asiens, gegen den der Lop-nor nur ein erbärmlicher Sumpf ist.
 
 Am 11. März maß ich die Wassermenge des Kontsche-darja und fand, daß sie aus
@@ -558,7 +558,7 @@ trübe, kalt und ganz süß ist, dasjenige aber, welches ihm entströmt,
 krystallklar, einige Grad wärmer und von schwach salzigem Geschmack ist — alles
 so einfache Phänomene, daß sie keiner Erklärung bedürfen.
 
-Der große See *Issik-kul*^[^0703]^ in Semirjetschensk zeigt ein Problem, das Geologen wie
+Der große See *Issik-kul*<sup>[^0703]</sup> in Semirjetschensk zeigt ein Problem, das Geologen wie
 Hydrographen und Reisenden viel Kopfzerbrechen gemacht hat. Nur wenige Kilometer
 vom Westende des Sees entfernt, auf vollständig ebenem Boden, fließt der nicht
 unbedeutende Fluß *Tschu*; er ergießt sich aber nicht, wie man erwarten sollte,
@@ -603,7 +603,7 @@ jedoch Wasser zu liefern. Der See wird dann mit der Zeit an Umfang abnehmen und
 sein Wasser an Salhhaltigkeit zunehmen, wie es jetzt beim Issik-kul der Fall
 ist.
 
-*Kara-schahr*^[^0704]^ (die schwarze Stadt) verdient ihren Namen, denn sie zeichnet sich
+*Kara-schahr*<sup>[^0704]</sup> (die schwarze Stadt) verdient ihren Namen, denn sie zeichnet sich
 durch größern Reichthum an Schmutz aus als die andern Städte im innersten Asien.
 Seine Lage auf der flachen, unfruchtbaren Ebene am linken Ufer des Flusses hat
 nichts Interessantes. Aber es ist eine große Stadt, mehrfach so groß wie Korla.

@@ -19,8 +19,8 @@ Das große Gepäck und unser meistes chinesisches Silber ließen wir im Hause de
 Aksakals in Chotan, wohin wir folglich früher oder später wieder zurückkehren
 mußten. An Proviant wurde nur für fünfzig Tage mitgenommen, aber wir blieben
 vier und einen halben Monat fort und mußten uns daher lange mit dem begnügen,
-was das Land bot. Mein erster Plan war, Prschewalskij's^[^0400]^
-Masar-tag^[^0401]^ zu erforschen und dann ostwärts durch die Wüste nach dem
+was das Land bot. Mein erster Plan war, Prschewalskij's<sup>[^0400]</sup>
+Masar-tag<sup>[^0401]</sup> zu erforschen und dann ostwärts durch die Wüste nach dem
 Kerija-darja zu gehen, um unterwegs die Ruinen einer alten Stadt zu besuchen,
 von denen ich in Chotan gehört hatte. Die Rückreise sollte im Bette des
 Kerija-darja nach Süden und über die Stadt *Kerija* nach Chotan ausgeführt
@@ -181,7 +181,7 @@ wachsende Wald mit dem Flusse nach Osten wanderte.
 ::::
 
 Für uns war dieser Streifen todten Waldes von großer Bedeutung, denn meine
-Wegweiser wußten, daß die alte Stadt, die sie *Takla-makan*^[^0402]^ nannten, an seinem
+Wegweiser wußten, daß die alte Stadt, die sie *Takla-makan*<sup>[^0402]</sup> nannten, an seinem
 Ostrande lag. Als sie am Terrain sahen, daß wir in ihrer Nähe sein mußten, und
 wir überdies Scherben von gebrannten Thongefäßen gefunden hatten, machten wir
 halt, gruben in 2 Meter Tiefe Wasser und schickten die Wegweiser aus, um nach

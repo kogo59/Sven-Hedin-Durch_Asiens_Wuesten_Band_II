@@ -139,7 +139,7 @@ Der Theil des Weges, der noch bis zur Küste zurückzulegen war, führte durch
 wohlbekannte Gegenden. Ich will deshalb einige Episoden nur kurz berühren.
 
 Noch eine Wüste breitete sich auf unserm Wege aus, bevor wir das *eigentliche
-China* erreichten. Der Zug durch die Wüsteneien von *Ordos*^[^2600]^ gehörte zu den
+China* erreichten. Der Zug durch die Wüsteneien von *Ordos*<sup>[^2600]</sup> gehörte zu den
 schwersten Theilen meiner Reise durch Asien. Ich war jetzt müde und hatte die
 Einsamkeit und die Plage satt, und die 1110 Kilometer, die noch zurückzulegen
 waren, erinnerten fast an eine schleunige Flucht, der Civilisation und Ruhe
@@ -230,7 +230,7 @@ erheben, hinschlängelt. Auch hier gab es Missionare: Schweden und Amerikaner.
 Aber jetzt hatte ich keine Zeit zum Verweilen, denn nur vier Tage trennten mich
 noch von Peking.
 
-In Kalgan^[^2601]^ miethete ich einen To-dscho, eine Sänfte, und reiste, von zwei
+In Kalgan<sup>[^2601]</sup> miethete ich einen To-dscho, eine Sänfte, und reiste, von zwei
 Mauleseln getragen, durch das Nan-cho-Thal und über die Bergketten, welche die
 Ebene um Peking im Halbkreise begrenzen und sie vom mongolischen Hochlande
 trennen.
@@ -325,7 +325,7 @@ Ich wählte den letztern, der mich also *noch einmal*, jedoch unter ganz andern
 Verhältnissen, *quer durch Asien* führte. In einem zweiräderigen, von
 mongolischen Pferden mit Reitern auf dem Rücken gezogenen chinesischen Karren
 fuhr ich mit sausender Geschwindigkeit durch die endlosen Ebenen, Wüsten und
-Steppen der Gobi, über *Sair-ussu* und *Urga*^[^2602]^ nach *Kiachta*^[^2603]^.
+Steppen der Gobi, über *Sair-ussu* und *Urga*<sup>[^2602]</sup> nach *Kiachta*<sup>[^2603]</sup>.
 
 :::: { .wrap-60  .caption .align-center }
 ![Mongolische Gürtelgehänge für Feuerstahl, für Dolche und elfenbeinerne Eßstäbchen in silbernen Scheiden. Aus Kalgan.](Durch_Asiens_Wuesten_II_468.jpg "Mongolische Gürtelgehänge für Feuerstahl, für Dolche und elfenbeinerne Eßstäbchen in silbernen Scheiden. Aus Kalgan."){#b468}

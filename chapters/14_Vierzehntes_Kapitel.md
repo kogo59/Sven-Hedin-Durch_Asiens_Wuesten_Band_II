@@ -78,7 +78,7 @@ Das Thal wird breiter, und die Aussicht erweitert sich nach oben hin. Es ist
 eine Uebergangslandschaft, wie die, welche wir auf Pamir gefunden haben — ein
 Uebergang von peripherischem zu plateauartigem Terrain. Noch münden hier kleine
 Querthäler, und im Hintergrunde derjenigen, die wir zur Rechten haben, taucht
-von Zeit zu Zeit eine gewaltige, schneebedeckte Bergkette auf: der *Arka-tag*^[^1400]^
+von Zeit zu Zeit eine gewaltige, schneebedeckte Bergkette auf: der *Arka-tag*<sup>[^1400]</sup>
 (der hintere Berg), so genannt im Gegensatz zu dem südlich vom Lop-nor liegenden
 *Altun-* oder *Astun-tag* (der untere Berg).
 
@@ -261,7 +261,7 @@ Das Thal erweiterte sich allmählich zu einer wellenförmigen Hochebene. In sein
 Mündung erhob sich links eine außerordentlich pittoreske Bergpartie, eine
 Verschmelzung von oben abgestumpften Kegeln mit geriefelten Seiten. Die Kegel
 bestanden theils aus rothem Sandstein, theils aus einer außerordentlich harten,
-ziegelrothen Gesteinsart, die einer Breccie^[^1401]^ glich.
+ziegelrothen Gesteinsart, die einer Breccie<sup>[^1401]</sup> glich.
 
 Die Gipfel dieser Kegel deckte eine rabenschwarze, horizontale Tuffschicht.
 Diese Scheibe schützt augenscheinlich das darunterliegende Gestein vor

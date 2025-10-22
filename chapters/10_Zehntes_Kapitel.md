@@ -190,7 +190,7 @@ Hals. „O, Sie waren es! Ich war damals gerade in Chotan und hörte täglich vo
 Ihrer unglücklichen Reise reden. Auch Ling Darin hat mir von Ihnen erzählt, und
 wir hofften beide, Sie in Chotan zu treffen.“
 
-Dieser Ling Darin war niemand anders als Paul *Splingaert*^[^1000]^, ein Belgier, der
+Dieser Ling Darin war niemand anders als Paul *Splingaert*<sup>[^1000]</sup>, ein Belgier, der
 schon seit einigen dreißig Jahren in China lebt, Richthofen auf seinen Reisen
 viele Jahre lang als Dolmetscher begleitete und jetzt ein mächtiger Mandarin in
 Su-tscheo war. Er war schließlich ganz Chinese geworden und war mit einer

@@ -80,7 +80,7 @@ Sowohl die Lop-Männer selbst als auch die Bewohner von Ostturkestan im
 allgemeinen nennen dagegen, soweit sie es überhaupt kennen, das ganze Gebiet von
 dem Zusammenflusse des Ugen-darja mit dem Tarim bis nach *Tscharchlik* einfach
 Lop. Der von Prschewalskij gefundene See zerfällt in zwei Becken: *Kara-buran*
-und *Kara-koschun*^[^0800]^ (bei Prschewalskij Kara-kurtschin).
+und *Kara-koschun*<sup>[^0800]</sup> (bei Prschewalskij Kara-kurtschin).
 
 Was beim ersten Anblick des von mir entdeckten Sees wunderbar erscheint, ist,
 daß seine Längenrichtung von Norden nach Süden geht, während der Lop-nor der

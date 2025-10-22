@@ -34,7 +34,7 @@ Nephrit vorkam, theils in anstehendem Gestein in den Bergthälern der Flüsse
 Kara-kasch und Jurun-kasch, theils in vom Wasser geschliffenen Stücken im Bette
 des Jurun-kasch.
 
-Der Nephrit^[^0200]^ (chinesisch „Yü“, dschaggataitürkisch „Kasch-tasch“) gehört in
+Der Nephrit<sup>[^0200]</sup> (chinesisch „Yü“, dschaggataitürkisch „Kasch-tasch“) gehört in
 China zu den größten Seltenheiten. Man verfertigt daraus Dosen, Flaschen,
 Tassen, Pfeifenmundstücke, Armbänder u. s. w. Eins der Westthore von Peking
 heißt das Nephritthor, weil das kostbare Mineral dort in die Stadt eingeführt
@@ -42,7 +42,7 @@ wurde.
 
 Heutzutage ist Chotan eine unbedeutende Stadt, die nicht viel mehr als 5000
 muhammedanische und 500 chinesische Einwohner in ihren Mauern zählen dürfte.
-Ihre wichtigsten Produkte sind außer dem Nephrit^[^0201]^, Seide, weiße Filzdecken,
+Ihre wichtigsten Produkte sind außer dem Nephrit<sup>[^0201]</sup>, Seide, weiße Filzdecken,
 Häute, Trauben, Reis und andere Getreidearten, Gemüse, Aepfel, Melonen,
 Baumwolle u. s. w. Ihre seidenen Teppiche sind von außerordentlicher Schönheit
 und Feinheit. Die Chinesen legen sie bei festlichen Gelegenheiten auf den Tisch;

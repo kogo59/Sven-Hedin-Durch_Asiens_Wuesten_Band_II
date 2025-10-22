@@ -271,7 +271,7 @@ die Gegend sehr gut kannte. Er war einer der vorzüglichsten Diener, die ich je
 gehabt habe, war stets fröhlich und heiter und frischte meine Kenntnisse im
 Mongolischen auf.
 
-Loppsen verschaffte mir sofort einige Burchane und Tanka oder Tempelfahnen^[^2000]^ mit
+Loppsen verschaffte mir sofort einige Burchane und Tanka oder Tempelfahnen<sup>[^2000]</sup> mit
 Bildern des Dalai Lama und Bantsching Bogdo. Wie er zu ihnen gekommen ist, weiß
 ich nicht. Wahrscheinlich hatte er sie unsern Nachbarn einfach weggenommen, denn
 er war sehr besorgt, daß sie sie zu sehen bekommen könnten.
