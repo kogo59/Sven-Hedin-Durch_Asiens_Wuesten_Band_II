@@ -244,7 +244,7 @@ beiden Offizieren und der Geologe *Bogdanowitsch*, schließlich *Littledale* mit
 seiner Frau, sind alle in den Fußspuren des großen russischen Generals
 gewandert. Mit Ausnahme von Pjewzoff haben sie daher die gewissenhafte,
 meisterliche Beschreibung dieser Gegenden, die Peschewalskij schon auf seiner
-ersten Lop-norReise (1876—77) geschrieben und bei seinem zweiten Besuche im
+ersten Lop-nor-Reise (1876—77) geschrieben und bei seinem zweiten Besuche im
 Frühling 1885 vervollständigt hatte, nicht in nennenswerthem Grade ergänzen
 können.
 
